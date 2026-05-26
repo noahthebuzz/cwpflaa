@@ -38,6 +38,10 @@ export function findNextPlayableCell(
   current: Position,
   direction: ArrowDirection,
 ): Position {
+  if (grid.length === 0 || grid[0].length === 0) {
+    return current;
+  }
+
   const step = directionVector[direction];
   let next = { row: current.row + step.row, col: current.col + step.col };
 

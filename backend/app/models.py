@@ -17,9 +17,10 @@ from sqlalchemy import (
     Text,
     UniqueConstraint,
 )
-from sqlalchemy.orm import Mapped, mapped_column, relationship
+from sqlalchemy.orm import Mapped, mapped_column, relationship, validates
 
 from .db import Base
+from .services.text_normalization import normalize_answer
 
 
 class User(Base):
@@ -45,10 +46,6 @@ class WordPool(Base):
     __table_args__ = (
         UniqueConstraint("normalized_answer", name="uq_word_pool_normalized_answer"),
         CheckConstraint("length(normalized_answer) > 0", name="ck_word_not_empty"),
-        CheckConstraint(
-            "normalized_answer NOT GLOB '*[^A-Z]*'",
-            name="ck_word_upper_latin_only",
-        ),
     )
 
     id: Mapped[int] = mapped_column(Integer, primary_key=True)
@@ -69,6 +66,10 @@ class WordPool(Base):
     updated_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), default=lambda: datetime.now(UTC), onupdate=lambda: datetime.now(UTC), nullable=False
     )
+
+    @validates("normalized_answer")
+    def validate_and_normalize_answer(self, _key: str, value: str) -> str:
+        return normalize_answer(value)
 
 
 class PuzzleQueue(Base):
