@@ -14,14 +14,11 @@ def normalize_answer(raw: str) -> str:
 
     normalized = (
         raw.strip()
+        .upper()
         .replace("Ä", "AE")
         .replace("Ö", "OE")
         .replace("Ü", "UE")
-        .replace("ä", "AE")
-        .replace("ö", "OE")
-        .replace("ü", "UE")
         .replace("ß", "SS")
-        .upper()
     )
 
     if not normalized:

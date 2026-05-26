@@ -12,5 +12,5 @@ class Base(DeclarativeBase):
     """Base declarative model class."""
 
 
-engine = create_engine(SQLITE_URL, future=True)
-SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False, future=True)
+engine = create_engine(SQLITE_URL)
+SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)
