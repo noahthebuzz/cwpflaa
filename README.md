@@ -27,9 +27,22 @@ tests/
     test_text_normalization.py
 ```
 
-## Run backend locally
+## Start the backend
 
 ```bash
+# from repository root
 pip install -r requirements.txt
 uvicorn backend.app.main:app --reload
 ```
+
+Backend will be available at `http://127.0.0.1:8000` (health check: `/healthz`).
+
+## Start the frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Frontend dev server will typically run at `http://127.0.0.1:5173`.
