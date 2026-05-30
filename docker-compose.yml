@@ -1,0 +1,28 @@
+services:
+  db:
+    image: postgres:16
+    restart: always
+    environment:
+      POSTGRES_USER: cwpflaa
+      POSTGRES_PASSWORD: cwpflaa_dev
+      POSTGRES_DB: cwpflaa_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  backend:
+    build: ./backend
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgres://cwpflaa:cwpflaa_dev@db:5432/cwpflaa_db
+      JWT_SECRET_KEY: d592eef4e926a0a164312b6a72bfd1099deae9add4f95968b479608fa6711c16
+    depends_on:
+      - db
+    volumes:
+      - ./backend:/app
+
+volumes:
+  postgres_data:
