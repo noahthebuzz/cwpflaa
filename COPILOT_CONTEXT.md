@@ -146,11 +146,19 @@ The username generator creates random, memorable usernames from word lists witho
 
 ---
 
-## Database Models (planned)
+## Database Models
 
-- `User` – id, username, email, hashed_password, created_at
-- `DailyPuzzle` – id, date, game_type (enum: wordle/sudoku/schweden), puzzle_data (JSON), solution_data (JSON)
-- `Attempt` – id, user_id, puzzle_id, submitted_at, solved (bool), attempt_data (JSON)
+### ✅ Implemented
+
+- **User** – id, username, email, hashed_password, created_at
+- **Word** – id, text (50 chars), clue (255 chars), elo (float, default 1000.0), usage_count (int), created_at
+  - Composite unique constraint: `(text, clue)` to allow duplicate words with different meanings
+  - ELO field tracks difficulty; updated based on user solve speed/attempts
+
+### Planned
+
+- **DailyPuzzle** – id, date (unique per game_type), game_type (enum: wordle/sudoku/schwedenrätsel), puzzle_data (JSON), solution_data (JSON), review_status (grey/green/red for admin workflow), reviewed_at (timestamp)
+- **Attempt** – id, user_id (FK), puzzle_id (FK), submitted_at (timestamp), solved (bool), attempt_data (JSON), time_taken (seconds)
 
 ---
 
@@ -167,9 +175,9 @@ The username generator creates random, memorable usernames from word lists witho
 
 ---
 
-## Current Implementation Status – Phase 1
+## Current Implementation Status
 
-### ✅ Completed
+### ✅ Phase 1 Complete
 
 - **Docker Compose Setup** – Backend + Frontend + PostgreSQL running locally
 - **FastAPI Scaffold** – Basic app structure with auto-migration (SQLAlchemy creates tables)
@@ -185,6 +193,22 @@ The username generator creates random, memorable usernames from word lists witho
 - **JWT Middleware** – `get_current_user()` dependency protects authenticated routes
 - **End-to-End Testing** – Verified: register → login → access protected routes → 401 on unauthorized
 
+### ✅ Phase 2 In Progress
+
+- **Word Vocabulary System**
+  - `Word` model with fields: `id`, `text`, `clue`, `elo` (IRT difficulty), `usage_count`, `created_at`
+  - Composite unique constraint on `(text, clue)` – allows same word with different meanings
+  - ELO rating system (default 1000.0) for adaptive difficulty based on Item Response Theory
+  - 360+ German words pre-loaded from `seed_data/words.json`
+  - Auto-seeding on startup via `seed_words()` function
+  - Deduplication logic: skips only if word AND clue are identical
+  - String length 50 chars to accommodate longer German words
+- **Seed Infrastructure**
+  - `app/seeds/seed_words.py` – Loads JSON, deduplicates, syncs with database
+  - `app/seed_data/words.json` – 360 German words with clues and ELO ratings
+  - Automatic execution on FastAPI startup
+  - Error handling with rollback on constraint violations
+
 ---
 
 ## Next Steps
@@ -198,21 +222,35 @@ All core authentication features are implemented and tested:
 - Proper error handling (401 for unauthorized access)
 - Argon2 password hashing (OWASP recommended)
 
-### Upcoming: Phase 2 – Daily Puzzle System
+### Upcoming: Phase 2 Continuation – Daily Puzzle System
 
 Build the core puzzle infrastructure:
 
-1. **Create Database Models**
-   - `DailyPuzzle` – date, game_type (enum), puzzle_data (JSON), solution_data (JSON)
-   - `Attempt` – user_id, puzzle_id, submitted_at, solved (bool), attempt_data (JSON)
-   - `GameType` – enum (wordle, sudoku, schwedenrätsel)
+1. **Create DailyPuzzle Model** ← Next
+   - Schema: id, date (unique per game_type), game_type (enum), puzzle_data (JSON), solution_data (JSON)
+   - Admin workflow fields: review_status (grey/green/red), reviewed_at (timestamp)
+   - Supports 6-day advance generation with admin approval before availability
 
-2. **Build Puzzle Generation Service** (`backend/app/services/`)
-   - Sudoku generator with unique solution
-   - Wordle daily word selection
-   - Schwedenrätsel generator
+2. **Create Attempt Model**
+   - Track all user solve attempts for statistics and IRT updates
+   - Schema: id, user_id (FK), puzzle_id (FK), submitted_at, solved (bool), attempt_data (JSON), time_taken (seconds)
 
-3. **Create Puzzle API Endpoints**
+3. **Build Puzzle Generation Services** (`backend/app/services/`)
+   - **Schwedenrätsel** – Grid placement algorithm using Word table (highest priority)
+   - **Wordle** – Daily German word selection with usage tracking
+   - **Sudoku** – Use py-sudoku library for unique solution generation
+
+4. **Setup APScheduler**
+   - Daily trigger at 4 AM UTC
+   - Generate puzzles for next 6 days for all three game types
+   - Set review_status='grey' (awaiting admin approval)
+
+5. **Implement Admin Endpoints**
+   - `GET /api/admin/puzzles/pending` – List pending/rejected puzzles
+   - `POST /api/admin/puzzles/{id}/approve` – Approve puzzle (set green, available to users)
+   - `POST /api/admin/puzzles/{id}/reject` – Reject puzzle (set red, regenerate on next schedule)
+
+6. **Create Puzzle API Endpoints**
    - `GET /api/puzzles/today` – Fetch all today's puzzles (guest + authenticated)
    - `POST /api/puzzles/{id}/submit` – Submit and check solution
    - `GET /api/puzzles/{date}` – Fetch archived puzzles (authenticated only)
