@@ -1,0 +1,5680 @@
+[
+  {
+    "word": "Bzw",
+    "clue": "beziehungsweise (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Dh",
+    "clue": "das heißt (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Etc",
+    "clue": "und so weiter (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Me",
+    "clue": "meines Erachtens (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Ua",
+    "clue": "unter anderem (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Va",
+    "clue": "vor allem (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Vchr",
+    "clue": "vor Christus (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Vgl",
+    "clue": "vergleiche (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Zb",
+    "clue": "zum Beispiel (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Brd",
+    "clue": "dt. Staat (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Eu",
+    "clue": "europ. Bündnis (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Uno",
+    "clue": "Weltorg. (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Usa",
+    "clue": "nordamerik. Staat (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Lkw",
+    "clue": "Nutzkraftwagen (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Pkw",
+    "clue": "Auto (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Stvo",
+    "clue": "Verkehrsregeln (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "At",
+    "clue": "Teil der Bibel (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Nt",
+    "clue": "Teil der Bibel (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Ev",
+    "clue": "Konfession (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Kath",
+    "clue": "Konfession (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Kg",
+    "clue": "Gewichtseinheit (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Kw",
+    "clue": "Leistungseinheit (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Mm",
+    "clue": "Längenmass (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Ev",
+    "clue": "eingetragener Verein (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Uu",
+    "clue": "unter Umständen (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "B",
+    "clue": "Kfz.-Z. Berlin",
+    "elo": 1000
+  },
+  {
+    "word": "M",
+    "clue": "Kfz.-Z. München",
+    "elo": 1000
+  },
+  {
+    "word": "HH",
+    "clue": "Kfz.-Z. Hamburg",
+    "elo": 1000
+  },
+  {
+    "word": "S",
+    "clue": "Kfz.-Z. Stuttgart",
+    "elo": 1000
+  },
+  {
+    "word": "K",
+    "clue": "Kfz.-Z. Köln",
+    "elo": 1000
+  },
+  {
+    "word": "F",
+    "clue": "Kfz.-Z. Frankfurt/M",
+    "elo": 1000
+  },
+  {
+    "word": "Tee",
+    "clue": "Heißgetränk",
+    "elo": 1000
+  },
+  {
+    "word": "Eis",
+    "clue": "gefrorenes Wasser",
+    "elo": 1000
+  },
+  {
+    "word": "Oma",
+    "clue": "Großmutter",
+    "elo": 1000
+  },
+  {
+    "word": "Opa",
+    "clue": "Großvater",
+    "elo": 1000
+  },
+  {
+    "word": "Aue",
+    "clue": "Wiese am Wasser",
+    "elo": 1000
+  },
+  {
+    "word": "Emu",
+    "clue": "Laufvogel",
+    "elo": 1000
+  },
+  {
+    "word": "Uhu",
+    "clue": "Nachtvogel",
+    "elo": 1000
+  },
+  {
+    "word": "Aar",
+    "clue": "poet. für Adler",
+    "elo": 1000
+  },
+  {
+    "word": "Inn",
+    "clue": "Fluss zum Donau",
+    "elo": 1000
+  },
+  {
+    "word": "Isar",
+    "clue": "Fluss durch München",
+    "elo": 1000
+  },
+  {
+    "word": "Main",
+    "clue": "dt. Fluss",
+    "elo": 1000
+  },
+  {
+    "word": "Elbe",
+    "clue": "dt. Strom",
+    "elo": 1000
+  },
+  {
+    "word": "Oder",
+    "clue": "Grenzfluss",
+    "elo": 1000
+  },
+  {
+    "word": "Genf",
+    "clue": "Schweizer Stadt",
+    "elo": 1000
+  },
+  {
+    "word": "Bern",
+    "clue": "Schweizer Hauptstadt",
+    "elo": 1000
+  },
+  {
+    "word": "Graz",
+    "clue": "Stadt in Österr.",
+    "elo": 1000
+  },
+  {
+    "word": "Linz",
+    "clue": "Stadt in Österr.",
+    "elo": 1000
+  },
+  {
+    "word": "Wien",
+    "clue": "Hauptstadt von Österr.",
+    "elo": 1000
+  },
+  {
+    "word": "Esel",
+    "clue": "Lasttier",
+    "elo": 1000
+  },
+  {
+    "word": "Elch",
+    "clue": "großes Hirschtier",
+    "elo": 1000
+  },
+  {
+    "word": "Affe",
+    "clue": "Primatenart",
+    "elo": 1000
+  },
+  {
+    "word": "Maus",
+    "clue": "Nagetier",
+    "elo": 1000
+  },
+  {
+    "word": "Ratte",
+    "clue": "Nagetier",
+    "elo": 1000
+  },
+  {
+    "word": "Loewe",
+    "clue": "Raubtier",
+    "elo": 1000
+  },
+  {
+    "word": "Tiger",
+    "clue": "Raubtier",
+    "elo": 1000
+  },
+  {
+    "word": "Hyäne",
+    "clue": "Steppentier",
+    "elo": 1000
+  },
+  {
+    "word": "Oel",
+    "clue": "Schmierstoff",
+    "elo": 1000
+  },
+  {
+    "word": "Gas",
+    "clue": "Brennstoff",
+    "elo": 1000
+  },
+  {
+    "word": "Erz",
+    "clue": "metallhaltiges Gestein",
+    "elo": 1000
+  },
+  {
+    "word": "Blei",
+    "clue": "Schwermetall",
+    "elo": 1000
+  },
+  {
+    "word": "Zinn",
+    "clue": "Metall",
+    "elo": 1000
+  },
+  {
+    "word": "Zink",
+    "clue": "Metall",
+    "elo": 1000
+  },
+  {
+    "word": "Gold",
+    "clue": "Edelmetall",
+    "elo": 1000
+  },
+  {
+    "word": "Uran",
+    "clue": "chem. Element",
+    "elo": 1000
+  },
+  {
+    "word": "Neon",
+    "clue": "Edelgas",
+    "elo": 1000
+  },
+  {
+    "word": "Auge",
+    "clue": "Sehorgan",
+    "elo": 1000
+  },
+  {
+    "word": "Ohr",
+    "clue": "Hörorgan",
+    "elo": 1000
+  },
+  {
+    "word": "Nase",
+    "clue": "Riechorgan",
+    "elo": 1000
+  },
+  {
+    "word": "Haut",
+    "clue": "Körperhülle",
+    "elo": 1000
+  },
+  {
+    "word": "Herz",
+    "clue": "Blutpumpe",
+    "elo": 1000
+  },
+  {
+    "word": "Ader",
+    "clue": "Blutgefäß",
+    "elo": 1000
+  },
+  {
+    "word": "Bein",
+    "clue": "Gliedmasse",
+    "elo": 1000
+  },
+  {
+    "word": "Arm",
+    "clue": "Gliedmasse",
+    "elo": 1000
+  },
+  {
+    "word": "Hand",
+    "clue": "Teil des Arms",
+    "elo": 1000
+  },
+  {
+    "word": "Fuss",
+    "clue": "Teil des Beins",
+    "elo": 1000
+  },
+  {
+    "word": "Kopf",
+    "clue": "Teil des Körpers",
+    "elo": 1000
+  },
+  {
+    "word": "Hals",
+    "clue": "Verbindung Kopf/Rumpf",
+    "elo": 1000
+  },
+  {
+    "word": "Knie",
+    "clue": "Gelenk",
+    "elo": 1000
+  },
+  {
+    "word": "Elle",
+    "clue": "Unterarmknochen",
+    "elo": 1000
+  },
+  {
+    "word": "Leber",
+    "clue": "innerr. Organ",
+    "elo": 1000
+  },
+  {
+    "word": "Milz",
+    "clue": "inneres Organ",
+    "elo": 1000
+  },
+  {
+    "word": "Darm",
+    "clue": "Verdauungsorgan",
+    "elo": 1000
+  },
+  {
+    "word": "Poet",
+    "clue": "Dichter",
+    "elo": 1000
+  },
+  {
+    "word": "Vers",
+    "clue": "Zeile eines Gedichts",
+    "elo": 1000
+  },
+  {
+    "word": "Reim",
+    "clue": "Gleichklang",
+    "elo": 1000
+  },
+  {
+    "word": "Oper",
+    "clue": "Musiktheater",
+    "elo": 1000
+  },
+  {
+    "word": "Arie",
+    "clue": "Gesangsstück",
+    "elo": 1000
+  },
+  {
+    "word": "Chor",
+    "clue": "Sängergruppe",
+    "elo": 1000
+  },
+  {
+    "word": "Takt",
+    "clue": "Rhythmus",
+    "elo": 1000
+  },
+  {
+    "word": "Lied",
+    "clue": "Gesangswerk",
+    "elo": 1000
+  },
+  {
+    "word": "Note",
+    "clue": "Schriftzeichen f. Musik",
+    "elo": 1000
+  },
+  {
+    "word": "Bass",
+    "clue": "tiefe Stimmlage",
+    "elo": 1000
+  },
+  {
+    "word": "Tenor",
+    "clue": "hohe Männerstimme",
+    "elo": 1000
+  },
+  {
+    "word": "Altar",
+    "clue": "Opfertisch",
+    "elo": 1000
+  },
+  {
+    "word": "Dom",
+    "clue": "große Kirche",
+    "elo": 1000
+  },
+  {
+    "word": "Abt",
+    "clue": "Klostervorsteher",
+    "elo": 1000
+  },
+  {
+    "word": "Nonne",
+    "clue": "Klosterfrau",
+    "elo": 1000
+  },
+  {
+    "word": "Moench",
+    "clue": "Klosterbruder",
+    "elo": 1000
+  },
+  {
+    "word": "Papst",
+    "clue": "Kirchenoberhaupt",
+    "elo": 1000
+  },
+  {
+    "word": "Bischof",
+    "clue": "hoher Geistlicher",
+    "elo": 1000
+  },
+  {
+    "word": "Sünde",
+    "clue": "relig. Verfehlung",
+    "elo": 1000
+  },
+  {
+    "word": "Gebet",
+    "clue": "relig. Zwiesprache",
+    "elo": 1000
+  },
+  {
+    "word": "Amen",
+    "clue": "Abschluss des Gebets",
+    "elo": 1000
+  },
+  {
+    "word": "Islam",
+    "clue": "Weltreligion",
+    "elo": 1000
+  },
+  {
+    "word": "Koran",
+    "clue": "Schrift d. Islams",
+    "elo": 1000
+  },
+  {
+    "word": "Tora",
+    "clue": "Schrift d. Judentums",
+    "elo": 1000
+  },
+  {
+    "word": "Zen",
+    "clue": "Meditationsform",
+    "elo": 1000
+  },
+  {
+    "word": "Yoga",
+    "clue": "ind. Lehre",
+    "elo": 1000
+  },
+  {
+    "word": "Guru",
+    "clue": "ind. Lehrer",
+    "elo": 1000
+  },
+  {
+    "word": "Reis",
+    "clue": "Getreideart",
+    "elo": 1000
+  },
+  {
+    "word": "Mais",
+    "clue": "Getreideart",
+    "elo": 1000
+  },
+  {
+    "word": "Klee",
+    "clue": "Futterpflanze",
+    "elo": 1000
+  },
+  {
+    "word": "Rose",
+    "clue": "Blumenart",
+    "elo": 1000
+  },
+  {
+    "word": "Tulpe",
+    "clue": "Blumenart",
+    "elo": 1000
+  },
+  {
+    "word": "Alge",
+    "clue": "Wasserpflanze",
+    "elo": 1000
+  },
+  {
+    "word": "Moos",
+    "clue": "Sporenpflanze",
+    "elo": 1000
+  },
+  {
+    "word": "Baum",
+    "clue": "Holzpflanze",
+    "elo": 1000
+  },
+  {
+    "word": "Ast",
+    "clue": "Teil des Baumes",
+    "elo": 1000
+  },
+  {
+    "word": "Laub",
+    "clue": "Blätterwerk",
+    "elo": 1000
+  },
+  {
+    "word": "Hain",
+    "clue": "kleiner Wald",
+    "elo": 1000
+  },
+  {
+    "word": "Forst",
+    "clue": "gepflegter Wald",
+    "elo": 1000
+  },
+  {
+    "word": "Oase",
+    "clue": "Wasserstelle i. d. Wüste",
+    "elo": 1000
+  },
+  {
+    "word": "Düne",
+    "clue": "Sandhügel",
+    "elo": 1000
+  },
+  {
+    "word": "Berg",
+    "clue": "Erhebung",
+    "elo": 1000
+  },
+  {
+    "word": "Tal",
+    "clue": "Tiefland zw. Bergen",
+    "elo": 1000
+  },
+  {
+    "word": "Fels",
+    "clue": "Gesteinsmasse",
+    "elo": 1000
+  },
+  {
+    "word": "Alm",
+    "clue": "Bergweide",
+    "elo": 1000
+  },
+  {
+    "word": "See",
+    "clue": "Binnengewässer",
+    "elo": 1000
+  },
+  {
+    "word": "Meer",
+    "clue": "Weltgewässer",
+    "elo": 1000
+  },
+  {
+    "word": "Ufer",
+    "clue": "Rand am Wasser",
+    "elo": 1000
+  },
+  {
+    "word": "Insel",
+    "clue": "Land im Wasser",
+    "elo": 1000
+  },
+  {
+    "word": "Küste",
+    "clue": "Meeresrand",
+    "elo": 1000
+  },
+  {
+    "word": "Strom",
+    "clue": "großer Fluss",
+    "elo": 1000
+  },
+  {
+    "word": "Bach",
+    "clue": "kl. Fließgewässer",
+    "elo": 1000
+  },
+  {
+    "word": "Flut",
+    "clue": "steigendes Wasser",
+    "elo": 1000
+  },
+  {
+    "word": "Ebbe",
+    "clue": "sinkendes Wasser",
+    "elo": 1000
+  },
+  {
+    "word": "Wind",
+    "clue": "Luftbewegung",
+    "elo": 1000
+  },
+  {
+    "word": "Sturm",
+    "clue": "starker Wind",
+    "elo": 1000
+  },
+  {
+    "word": "Orkan",
+    "clue": "sehr starker Sturm",
+    "elo": 1000
+  },
+  {
+    "word": "Regen",
+    "clue": "Niederschlag",
+    "elo": 1000
+  },
+  {
+    "word": "Hagel",
+    "clue": "Eis-Niederschlag",
+    "elo": 1000
+  },
+  {
+    "word": "Schnee",
+    "clue": "gefr. Niederschlag",
+    "elo": 1000
+  },
+  {
+    "word": "Frost",
+    "clue": "Temp. unter Null",
+    "elo": 1000
+  },
+  {
+    "word": "Hitze",
+    "clue": "große Wärme",
+    "elo": 1000
+  },
+  {
+    "word": "Qualm",
+    "clue": "dichter Rauch",
+    "elo": 1000
+  },
+  {
+    "word": "Feuer",
+    "clue": "Verbrennung",
+    "elo": 1000
+  },
+  {
+    "word": "Glut",
+    "clue": "glühende Reste",
+    "elo": 1000
+  },
+  {
+    "word": "Asche",
+    "clue": "Verbrennungsrückstand",
+    "elo": 1000
+  },
+  {
+    "word": "Rauch",
+    "clue": "Abgas v. Feuer",
+    "elo": 1000
+  },
+  {
+    "word": "Amt",
+    "clue": "Behörde",
+    "elo": 1000
+  },
+  {
+    "word": "Rat",
+    "clue": "Gremium",
+    "elo": 1000
+  },
+  {
+    "word": "Wahl",
+    "clue": "polit. Abstimmung",
+    "elo": 1000
+  },
+  {
+    "word": "Staat",
+    "clue": "polit. Einheit",
+    "elo": 1000
+  },
+  {
+    "word": "Recht",
+    "clue": "Gesetzmäßigkeit",
+    "elo": 1000
+  },
+  {
+    "word": "Gesetz",
+    "clue": "Rechtsnorm",
+    "elo": 1000
+  },
+  {
+    "word": "Klage",
+    "clue": "gerichtl. Schritt",
+    "elo": 1000
+  },
+  {
+    "word": "Urteil",
+    "clue": "Gerichtsentscheid",
+    "elo": 1000
+  },
+  {
+    "word": "Haft",
+    "clue": "Gefängnisstrafe",
+    "elo": 1000
+  },{
+    "word": "Agnosie",
+    "clue": "Störung d. Erkennens",
+    "elo": 1200
+  },
+  {
+    "word": "Altruist",
+    "clue": "selbstloser Mensch",
+    "elo": 1100
+  },
+  {
+    "word": "Axiom",
+    "clue": "unbeweisbarer Grundsatz",
+    "elo": 1300
+  },
+  {
+    "word": "Bakel",
+    "clue": "veraltet f. Stock",
+    "elo": 1400
+  },
+  {
+    "word": "Beryll",
+    "clue": "Edelsteinmineral",
+    "elo": 1200
+  },
+  {
+    "word": "Chiffre",
+    "clue": "Geheimzeichen",
+    "elo": 1100
+  },
+  {
+    "word": "Diktion",
+    "clue": "Ausdrucksweise",
+    "elo": 1200
+  },
+  {
+    "word": "Drossel",
+    "clue": "Singvogelart",
+    "elo": 1000
+  },
+  {
+    "word": "Eklat",
+    "clue": "Skandal, Aufsehen",
+    "elo": 1100
+  },
+  {
+    "word": "Entität",
+    "clue": "Wesenseinheit",
+    "elo": 1300
+  },
+  {
+    "word": "Epik",
+    "clue": "erzählende Dichtkunst",
+    "elo": 1100
+  },
+  {
+    "word": "Fis",
+    "clue": "erhöhter Ton F",
+    "elo": 1000
+  },
+  {
+    "word": "Fisikus",
+    "clue": "scherzh. f. Arzt",
+    "elo": 1200
+  },
+  {
+    "word": "Glosse",
+    "clue": "kurzer Journ.-Beitrag",
+    "elo": 1100
+  },
+  {
+    "word": "Haptik",
+    "clue": "Lehre vom Tastsinn",
+    "elo": 1200
+  },
+  {
+    "word": "Hybrid",
+    "clue": "Mischform",
+    "elo": 1100
+  },
+  {
+    "word": "Ikone",
+    "clue": "Heiligenbild",
+    "elo": 1100
+  },
+  {
+    "word": "Indiz",
+    "clue": "Hinweis, Anhaltspunkt",
+    "elo": 1000
+  },
+  {
+    "word": "Interim",
+    "clue": "Zwischenzeit",
+    "elo": 1300
+  },
+  {
+    "word": "Jargon",
+    "clue": "Sondersprache",
+    "elo": 1100
+  },
+  {
+    "word": "Kanon",
+    "clue": "Regelwerk / Mehrklang",
+    "elo": 1100
+  },
+  {
+    "word": "Koryphäe",
+    "clue": "Experte auf Geb.",
+    "elo": 1300
+  },
+  {
+    "word": "Lapsus",
+    "clue": "Versehen, Fehler",
+    "elo": 1100
+  },
+  {
+    "word": "Legat",
+    "clue": "päpstl. Gesandter",
+    "elo": 1400
+  },
+  {
+    "word": "Marge",
+    "clue": "Gewinnspanne",
+    "elo": 1100
+  },
+  {
+    "word": "Monolith",
+    "clue": "Einzelsäule aus Stein",
+    "elo": 1300
+  },
+  {
+    "word": "Nadir",
+    "clue": "Fußpunkt (Astron.)",
+    "elo": 1500
+  },
+  {
+    "word": "Nexus",
+    "clue": "Zusammenhang",
+    "elo": 1300
+  },
+  {
+    "word": "Omen",
+    "clue": "Vorzeichen",
+    "elo": 1100
+  },
+  {
+    "word": "Onkel",
+    "clue": "Bruder d. Vaters",
+    "elo": 1000
+  },
+  {
+    "word": "Opus",
+    "clue": "musikal. Werk",
+    "elo": 1100
+  },
+  {
+    "word": "Orkus",
+    "clue": "Unterwelt (Mythol.)",
+    "elo": 1400
+  },
+  {
+    "word": "Pakt",
+    "clue": "Bündnis, Vertrag",
+    "elo": 1000
+  },
+  {
+    "word": "Paradigma",
+    "clue": "Denkmuster",
+    "elo": 1400
+  },
+  {
+    "word": "Patina",
+    "clue": "edler Rost, Belag",
+    "elo": 1200
+  },
+  {
+    "word": "Pion",
+    "clue": "Elementarteilchen",
+    "elo": 1500
+  },
+  {
+    "word": "Plenum",
+    "clue": "Vollversammlung",
+    "elo": 1100
+  },
+  {
+    "word": "Prälat",
+    "clue": "kirchl. Würdenträger",
+    "elo": 1300
+  },
+  {
+    "word": "Quote",
+    "clue": "Anteil, Verhältnism.",
+    "elo": 1000
+  },
+  {
+    "word": "Relikt",
+    "clue": "Überbleibsel",
+    "elo": 1100
+  },
+  {
+    "word": "Resümee",
+    "clue": "Zusammenfassung",
+    "elo": 1200
+  },
+  {
+    "word": "Scharte",
+    "clue": "Einkerbung",
+    "elo": 1100
+  },
+  {
+    "word": "Sperber",
+    "clue": "Greifvogelart",
+    "elo": 1200
+  },
+  {
+    "word": "Spleen",
+    "clue": "Eigenart, Marotte",
+    "elo": 1100
+  },
+  {
+    "word": "Status",
+    "clue": "Zustand, Rang",
+    "elo": 1000
+  },
+  {
+    "word": "Stigma",
+    "clue": "Merkmal, Brandmal",
+    "elo": 1200
+  },
+  {
+    "word": "Sukkurs",
+    "clue": "Beistand, Hilfe",
+    "elo": 1500
+  },
+  {
+    "word": "Tand",
+    "clue": "wertlose Sachen",
+    "elo": 1200
+  },
+  {
+    "word": "Thetik",
+    "clue": "Lehre vom Behaupten",
+    "elo": 1500
+  },
+  {
+    "word": "Tuba",
+    "clue": "Blechblasinstrument",
+    "elo": 1000
+  },
+  {
+    "word": "Usus",
+    "clue": "Brauch, Gewohnheit",
+    "elo": 1300
+  },
+  {
+    "word": "Vakat",
+    "clue": "Leerseite im Buch",
+    "elo": 1500
+  },
+  {
+    "word": "Veto",
+    "clue": "Einspruch",
+    "elo": 1100
+  },
+  {
+    "word": "Visum",
+    "clue": "Einreisebewilligung",
+    "elo": 1100
+  },
+  {
+    "word": "Wams",
+    "clue": "hist. Kleidungsstück",
+    "elo": 1300
+  },
+  {
+    "word": "Zander",
+    "clue": "Speisefisch",
+    "elo": 1100
+  },
+  {
+    "word": "Zenit",
+    "clue": "Scheitelpunkt",
+    "elo": 1200
+  },
+  {
+    "word": "Zuber",
+    "clue": "Waschgefäß",
+    "elo": 1200
+  },
+  {
+    "word": "Zyklus",
+    "clue": "Kreislauf",
+    "elo": 1100
+  },
+  {
+    "word": "Hbf",
+    "clue": "Hauptbahnhof (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Zzt",
+    "clue": "zur Zeit (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Mog",
+    "clue": "Maßgebl. (Abk.)",
+    "elo": 1400
+  },
+  {
+    "word": "Bes",
+    "clue": "besonders (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Allg",
+    "clue": "allgemein (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Sd",
+    "clue": "seinerzeit (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Aao",
+    "clue": "am angef. Ort (Abk.)",
+    "elo": 1300
+  },
+  {
+    "word": "Kfm",
+    "clue": "Kaufmann (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Doz",
+    "clue": "Dozent (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Mio",
+    "clue": "Million (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Mrd",
+    "clue": "Milliarde (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Ank",
+    "clue": "Ankunft (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Abf",
+    "clue": "Abfahrt (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Sog",
+    "clue": "sogenannt (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Zzgl",
+    "clue": "zuzüglich (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Inkl",
+    "clue": "inklusive (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Abst",
+    "clue": "Abstammung (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Ggf",
+    "clue": "gegebenenf. (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Urv",
+    "clue": "Urverfasser (Abk.)",
+    "elo": 1400
+  },
+  {
+    "word": "Ie",
+    "clue": "id est / das heißt (Abk.)",
+    "elo": 1300
+  },
+  {
+    "word": "Afr",
+    "clue": "Afrika (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Eur",
+    "clue": "Europa (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "As",
+    "clue": "Asien (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Am",
+    "clue": "Amerika (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Bgl",
+    "clue": "bürgerlich (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Tsd",
+    "clue": "Tausend (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Nn",
+    "clue": "Normalnull (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "St",
+    "clue": "Sankt / Straße (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Prof",
+    "clue": "Professor (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Dipl",
+    "clue": "Diplom (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Mg",
+    "clue": "Milligramm (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Dl",
+    "clue": "Deziliter (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Kts",
+    "clue": "Knoten (Geschw. Abk.)",
+    "elo": 1300
+  },
+  {
+    "word": "Hkt",
+    "clue": "Herkunft (Abk.)",
+    "elo": 1400
+  },{
+    "word": "Aal",
+    "clue": "schlangenförm. Fisch",
+    "elo": 1000
+  },
+  {
+    "word": "Aioli",
+    "clue": "Knoblauchcreme",
+    "elo": 1100
+  },
+  {
+    "word": "Arak",
+    "clue": "oriental. Branntwein",
+    "elo": 1300
+  },
+  {
+    "word": "Al dente",
+    "clue": "bissfest (ital.)",
+    "elo": 1100
+  },
+  {
+    "word": "Aperitif",
+    "clue": "Getränk vor d. Essen",
+    "elo": 1100
+  },
+  {
+    "word": "Bouillon",
+    "clue": "klare Fleischbrühe",
+    "elo": 1200
+  },
+  {
+    "word": "Baiser",
+    "clue": "Schaumgebäck",
+    "elo": 1200
+  },
+  {
+    "word": "Basmati",
+    "clue": "Duftreissorte",
+    "elo": 1100
+  },
+  {
+    "word": "Ceviche",
+    "clue": "roher Fisch in Limette",
+    "elo": 1300
+  },
+  {
+    "word": "Chutney",
+    "clue": "würzig-süße Sauce",
+    "elo": 1200
+  },
+  {
+    "word": "Couscous",
+    "clue": "nordafrik. Grieß",
+    "elo": 1100
+  },
+  {
+    "word": "Dashi",
+    "clue": "japan. Fischsud",
+    "elo": 1400
+  },
+  {
+    "word": "Deglacieren",
+    "clue": "Ablöschen v. Bratsatz",
+    "elo": 1500
+  },
+  {
+    "word": "Eintopf",
+    "clue": "gehaltvolles Gericht",
+    "elo": 1000
+  },
+  {
+    "word": "Estragon",
+    "clue": "Küchenkraut",
+    "elo": 1200
+  },
+  {
+    "word": "Farce",
+    "clue": "Füllung (Kochkunst)",
+    "elo": 1300
+  },
+  {
+    "word": "Flambieren",
+    "clue": "mit Geist abbrennen",
+    "elo": 1200
+  },
+  {
+    "word": "Garam",
+    "clue": "ind. Gewürzmischung",
+    "elo": 1300
+  },
+  {
+    "word": "Gnocchi",
+    "clue": "ital. Klößchen",
+    "elo": 1100
+  },
+  {
+    "word": "Hummus",
+    "clue": "Kichererbsenbrei",
+    "elo": 1100
+  },
+  {
+    "word": "Ingwer",
+    "clue": "scharfe Gewürzwurzel",
+    "elo": 1100
+  },
+  {
+    "word": "Julienne",
+    "clue": "feine Gemüsestreifen",
+    "elo": 1300
+  },
+  {
+    "word": "Kandis",
+    "clue": "grober Zucker",
+    "elo": 1100
+  },
+  {
+    "word": "Kumin",
+    "clue": "Kreuzkümmel",
+    "elo": 1200
+  },
+  {
+    "word": "Legieren",
+    "clue": "Binden v. Saucen",
+    "elo": 1400
+  },
+  {
+    "word": "Mousse",
+    "clue": "lockere Speise",
+    "elo": 1200
+  },
+  {
+    "word": "Nocke",
+    "clue": "geformtes Teigstück",
+    "elo": 1200
+  },
+  {
+    "word": "Omelett",
+    "clue": "Eiergericht",
+    "elo": 1100
+  },
+  {
+    "word": "Pesto",
+    "clue": "ital. Würzsauce",
+    "elo": 1100
+  },
+  {
+    "word": "Quiche",
+    "clue": "herzhafter Mürbeteig",
+    "elo": 1200
+  },
+  {
+    "word": "Roux",
+    "clue": "Mehlschwitze (frz.)",
+    "elo": 1500
+  },
+  {
+    "word": "Saffran",
+    "clue": "teuerstes Gewürz",
+    "elo": 1200
+  },
+  {
+    "word": "Tapas",
+    "clue": "span. Häppchen",
+    "elo": 1100
+  },
+  {
+    "word": "Umami",
+    "clue": "herzhafte Geschmacksr.",
+    "elo": 1300
+  },
+  {
+    "word": "Vinaigrette",
+    "clue": "Essig-Öl-Sauce",
+    "elo": 1200
+  },
+  {
+    "word": "Wok",
+    "clue": "asiat. Pfanne",
+    "elo": 1000
+  },
+  {
+    "word": "Zeste",
+    "clue": "Zitrusfruchtstreifen",
+    "elo": 1300
+  },
+  {
+    "word": "Anden",
+    "clue": "Hochgebirge i. S-Am.",
+    "elo": 1100
+  },
+  {
+    "word": "Atoll",
+    "clue": "Ringinsel",
+    "elo": 1200
+  },
+  {
+    "word": "Baia",
+    "clue": "ital. f. Bucht",
+    "elo": 1400
+  },
+  {
+    "word": "Delta",
+    "clue": "Flussmündung",
+    "elo": 1100
+  },
+  {
+    "word": "Etsch",
+    "clue": "Fluss in Südtirol",
+    "elo": 1200
+  },
+  {
+    "word": "Fjord",
+    "clue": "Meeresarm i. d. Küste",
+    "elo": 1200
+  },
+  {
+    "word": "Gobi",
+    "clue": "Wüste in Asien",
+    "elo": 1200
+  },
+  {
+    "word": "Himalaya",
+    "clue": "Hochgebirge Asiens",
+    "elo": 1100
+  },
+  {
+    "word": "Indus",
+    "clue": "Strom in Südasien",
+    "elo": 1300
+  },
+  {
+    "word": "Jura",
+    "clue": "Gebirge / Erdzeitalter",
+    "elo": 1200
+  },
+  {
+    "word": "Kairo",
+    "clue": "Stadt am Nil",
+    "elo": 1100
+  },
+  {
+    "word": "Lanzarote",
+    "clue": "Kanarische Insel",
+    "elo": 1200
+  },
+  {
+    "word": "Mekong",
+    "clue": "Strom in Südostasien",
+    "elo": 1300
+  },
+  {
+    "word": "Niger",
+    "clue": "Staat in Westafrika",
+    "elo": 1200
+  },
+  {
+    "word": "Oslo",
+    "clue": "Hptst. v. Norwegen",
+    "elo": 1100
+  },
+  {
+    "word": "Pamir",
+    "clue": "Hochgebirge i. Asien",
+    "elo": 1400
+  },
+  {
+    "word": "Rhone",
+    "clue": "europ. Strom",
+    "elo": 1200
+  },
+  {
+    "word": "Sahara",
+    "clue": "größte Trockenwüste",
+    "elo": 1100
+  },
+  {
+    "word": "Tibet",
+    "clue": "Hochland in Asien",
+    "elo": 1200
+  },
+  {
+    "word": "Ural",
+    "clue": "Grenzgebirge Eur/As",
+    "elo": 1200
+  },
+  {
+    "word": "Wolga",
+    "clue": "längster Fluss Eur.",
+    "elo": 1200
+  },
+  {
+    "word": "Algorithmus",
+    "clue": "Rechenvorschrift",
+    "elo": 1300
+  },
+  {
+    "word": "Byte",
+    "clue": "Maßeinh. f. Datenmenge",
+    "elo": 1000
+  },
+  {
+    "word": "Cache",
+    "clue": "Zwischenspeicher",
+    "elo": 1200
+  },
+  {
+    "word": "Dongle",
+    "clue": "Hardware-Schutzstecker",
+    "elo": 1400
+  },
+  {
+    "word": "Ethernet",
+    "clue": "Netzwerktechnik",
+    "elo": 1300
+  },
+  {
+    "word": "Firewall",
+    "clue": "Netzwerkschutz",
+    "elo": 1200
+  },
+  {
+    "word": "Giga",
+    "clue": "Vorsilbe (Milliarde)",
+    "elo": 1100
+  },
+  {
+    "word": "Host",
+    "clue": "Zentralrechner",
+    "elo": 1200
+  },
+  {
+    "word": "Interface",
+    "clue": "Schnittstelle",
+    "elo": 1200
+  },
+  {
+    "word": "Java",
+    "clue": "Programmiersprache",
+    "elo": 1200
+  },
+  {
+    "word": "Kernel",
+    "clue": "Betriebssystemkern",
+    "elo": 1400
+  },
+  {
+    "word": "Latenz",
+    "clue": "Verzögerungszeit",
+    "elo": 1300
+  },
+  {
+    "word": "Modem",
+    "clue": "Datenübertr.-Gerät",
+    "elo": 1100
+  },
+  {
+    "word": "Node",
+    "clue": "Netzwerkknoten",
+    "elo": 1400
+  },
+  {
+    "word": "Open Source",
+    "clue": "quelloffene Software",
+    "elo": 1200
+  },
+  {
+    "word": "Pixel",
+    "clue": "Bildpunkt",
+    "elo": 1100
+  },
+  {
+    "word": "Query",
+    "clue": "Datenbankabfrage",
+    "elo": 1400
+  },
+  {
+    "word": "Router",
+    "clue": "Netzwerkgerät",
+    "elo": 1100
+  },
+  {
+    "word": "Server",
+    "clue": "Zentralrechner",
+    "elo": 1100
+  },
+  {
+    "word": "Token",
+    "clue": "Identifizierungsmerkmal",
+    "elo": 1300
+  },
+  {
+    "word": "Upload",
+    "clue": "Datenübertr. (hoch)",
+    "elo": 1100
+  },
+  {
+    "word": "Virtual",
+    "clue": "scheinbar (IT)",
+    "elo": 1200
+  },
+  {
+    "word": "Widget",
+    "clue": "kleines Hilfsprogramm",
+    "elo": 1300
+  },
+  {
+    "word": "Apotheose",
+    "clue": "Vergöttlichung",
+    "elo": 1500
+  },
+  {
+    "word": "Belletristik",
+    "clue": "schöne Literatur",
+    "elo": 1300
+  },
+  {
+    "word": "Chronobiologie",
+    "clue": "Lehre d. biol. Rhythmen",
+    "elo": 1500
+  },
+  {
+    "word": "Dichotomie",
+    "clue": "Zweiteilung",
+    "elo": 1400
+  },
+  {
+    "word": "Euphemismus",
+    "clue": "Beschönigung",
+    "elo": 1400
+  },
+  {
+    "word": "Frenetisch",
+    "clue": "stürmisch, leidensch.",
+    "elo": 1300
+  },
+  {
+    "word": "Gezeter",
+    "clue": "aufgeregtes Gerede",
+    "elo": 1200
+  },
+  {
+    "word": "Häresie",
+    "clue": "Ketzerlehre",
+    "elo": 1400
+  },
+  {
+    "word": "Intrinsisch",
+    "clue": "von innen her",
+    "elo": 1400
+  },
+  {
+    "word": "Jovial",
+    "clue": "gnädig, herablassend",
+    "elo": 1300
+  },
+  {
+    "word": "Kausalität",
+    "clue": "Ursächlichkeit",
+    "elo": 1300
+  },
+  {
+    "word": "Lethargie",
+    "clue": "Trägheit, Teilnahmelos",
+    "elo": 1300
+  },
+  {
+    "word": "Misanthrop",
+    "clue": "Menschenfeind",
+    "elo": 1400
+  },
+  {
+    "word": "Narzissmus",
+    "clue": "Selbstverliebtheit",
+    "elo": 1200
+  },
+  {
+    "word": "Oszillieren",
+    "clue": "schwingen",
+    "elo": 1400
+  },
+  {
+    "word": "Pragmatismus",
+    "clue": "sachbez. Handeln",
+    "elo": 1300
+  },
+  {
+    "word": "Quintessenz",
+    "clue": "das Wesentliche",
+    "elo": 1300
+  },
+  {
+    "word": "Rhetorik",
+    "clue": "Redekunst",
+    "elo": 1200
+  },
+  {
+    "word": "Synergie",
+    "clue": "Zusammenwirkung",
+    "elo": 1300
+  },
+  {
+    "word": "Transzendenz",
+    "clue": "Übernatürlichkeit",
+    "elo": 1500
+  },
+  {
+    "word": "Utopie",
+    "clue": "Zukunftsbild (ideal)",
+    "elo": 1200
+  },
+  {
+    "word": "Vakuum",
+    "clue": "luftleerer Raum",
+    "elo": 1100
+  },
+  {
+    "word": "Wermut",
+    "clue": "Bitterpflanze",
+    "elo": 1300
+  },
+  {
+    "word": "Xenon",
+    "clue": "Edelgas",
+    "elo": 1200
+  },
+  {
+    "word": "Yacht",
+    "clue": "luxuriöses Boot",
+    "elo": 1100
+  },
+  {
+    "word": "Zynismus",
+    "clue": "spött. Lebenseinstellung",
+    "elo": 1300
+  },
+  {
+    "word": "Agnosie",
+    "clue": "Störung d. Erkennens",
+    "elo": 1200
+  },
+  {
+    "word": "Altruist",
+    "clue": "selbstloser Mensch",
+    "elo": 1100
+  },
+  {
+    "word": "Axiom",
+    "clue": "unbeweisbarer Grundsatz",
+    "elo": 1300
+  },
+  {
+    "word": "Bakel",
+    "clue": "veraltet f. Stock",
+    "elo": 1400
+  },
+  {
+    "word": "Beryll",
+    "clue": "Edelsteinmineral",
+    "elo": 1200
+  },
+  {
+    "word": "Chiffre",
+    "clue": "Geheimzeichen",
+    "elo": 1100
+  },
+  {
+    "word": "Diktion",
+    "clue": "Ausdrucksweise",
+    "elo": 1200
+  },
+  {
+    "word": "Drossel",
+    "clue": "Singvogelart",
+    "elo": 1000
+  },
+  {
+    "word": "Eklat",
+    "clue": "Skandal, Aufsehen",
+    "elo": 1100
+  },
+  {
+    "word": "Entität",
+    "clue": "Wesenseinheit",
+    "elo": 1300
+  },
+  {
+    "word": "Epik",
+    "clue": "erzählende Dichtkunst",
+    "elo": 1100
+  },
+  {
+    "word": "Fis",
+    "clue": "erhöhter Ton F",
+    "elo": 1000
+  },
+  {
+    "word": "Fisikus",
+    "clue": "scherzh. f. Arzt",
+    "elo": 1200
+  },
+  {
+    "word": "Glosse",
+    "clue": "kurzer Journ.-Beitrag",
+    "elo": 1100
+  },
+  {
+    "word": "Haptik",
+    "clue": "Lehre vom Tastsinn",
+    "elo": 1200
+  },
+  {
+    "word": "Hybrid",
+    "clue": "Mischform",
+    "elo": 1100
+  },
+  {
+    "word": "Ikone",
+    "clue": "Heiligenbild",
+    "elo": 1100
+  },
+  {
+    "word": "Indiz",
+    "clue": "Hinweis, Anhaltspunkt",
+    "elo": 1000
+  },
+  {
+    "word": "Interim",
+    "clue": "Zwischenzeit",
+    "elo": 1300
+  },
+  {
+    "word": "Jargon",
+    "clue": "Sondersprache",
+    "elo": 1100
+  },
+  {
+    "word": "Kanon",
+    "clue": "Regelwerk / Mehrklang",
+    "elo": 1100
+  },
+  {
+    "word": "Koryphäe",
+    "clue": "Experte auf Geb.",
+    "elo": 1300
+  },
+  {
+    "word": "Lapsus",
+    "clue": "Versehen, Fehler",
+    "elo": 1100
+  },
+  {
+    "word": "Legat",
+    "clue": "päpstl. Gesandter",
+    "elo": 1400
+  },
+  {
+    "word": "Marge",
+    "clue": "Gewinnspanne",
+    "elo": 1100
+  },
+  {
+    "word": "Monolith",
+    "clue": "Einzelsäule aus Stein",
+    "elo": 1300
+  },
+  {
+    "word": "Nadir",
+    "clue": "Fußpunkt (Astron.)",
+    "elo": 1500
+  },
+  {
+    "word": "Nexus",
+    "clue": "Zusammenhang",
+    "elo": 1300
+  },
+  {
+    "word": "Omen",
+    "clue": "Vorzeichen",
+    "elo": 1100
+  },
+  {
+    "word": "Onkel",
+    "clue": "Bruder d. Vaters",
+    "elo": 1000
+  },
+  {
+    "word": "Opus",
+    "clue": "musikal. Werk",
+    "elo": 1100
+  },
+  {
+    "word": "Orkus",
+    "clue": "Unterwelt (Mythol.)",
+    "elo": 1400
+  },
+  {
+    "word": "Pakt",
+    "clue": "Bündnis, Vertrag",
+    "elo": 1000
+  },
+  {
+    "word": "Paradigma",
+    "clue": "Denkmuster",
+    "elo": 1400
+  },
+  {
+    "word": "Patina",
+    "clue": "edler Rost, Belag",
+    "elo": 1200
+  },
+  {
+    "word": "Pion",
+    "clue": "Elementarteilchen",
+    "elo": 1500
+  },
+  {
+    "word": "Plenum",
+    "clue": "Vollversammlung",
+    "elo": 1100
+  },
+  {
+    "word": "Prälat",
+    "clue": "kirchl. Würdenträger",
+    "elo": 1300
+  },
+  {
+    "word": "Quote",
+    "clue": "Anteil, Verhältnism.",
+    "elo": 1000
+  },
+  {
+    "word": "Relikt",
+    "clue": "Überbleibsel",
+    "elo": 1100
+  },
+  {
+    "word": "Resümee",
+    "clue": "Zusammenfassung",
+    "elo": 1200
+  },
+  {
+    "word": "Scharte",
+    "clue": "Einkerbung",
+    "elo": 1100
+  },
+  {
+    "word": "Sperber",
+    "clue": "Greifvogelart",
+    "elo": 1200
+  },
+  {
+    "word": "Spleen",
+    "clue": "Eigenart, Marotte",
+    "elo": 1100
+  },
+  {
+    "word": "Status",
+    "clue": "Zustand, Rang",
+    "elo": 1000
+  },
+  {
+    "word": "Stigma",
+    "clue": "Merkmal, Brandmal",
+    "elo": 1200
+  },
+  {
+    "word": "Sukkurs",
+    "clue": "Beistand, Hilfe",
+    "elo": 1500
+  },
+  {
+    "word": "Tand",
+    "clue": "wertlose Sachen",
+    "elo": 1200
+  },
+  {
+    "word": "Thetik",
+    "clue": "Lehre vom Behaupten",
+    "elo": 1500
+  },
+  {
+    "word": "Tuba",
+    "clue": "Blechblasinstrument",
+    "elo": 1000
+  },
+  {
+    "word": "Usus",
+    "clue": "Brauch, Gewohnheit",
+    "elo": 1300
+  },
+  {
+    "word": "Vakat",
+    "clue": "Leerseite im Buch",
+    "elo": 1500
+  },
+  {
+    "word": "Veto",
+    "clue": "Einspruch",
+    "elo": 1100
+  },
+  {
+    "word": "Visum",
+    "clue": "Einreisebewilligung",
+    "elo": 1100
+  },
+  {
+    "word": "Wams",
+    "clue": "hist. Kleidungsstück",
+    "elo": 1300
+  },
+  {
+    "word": "Zander",
+    "clue": "Speisefisch",
+    "elo": 1100
+  },
+  {
+    "word": "Zenit",
+    "clue": "Scheitelpunkt",
+    "elo": 1200
+  },
+  {
+    "word": "Zuber",
+    "clue": "Waschgefäß",
+    "elo": 1200
+  },
+  {
+    "word": "Zyklus",
+    "clue": "Kreislauf",
+    "elo": 1100
+  },
+  {
+    "word": "Hbf",
+    "clue": "Hauptbahnhof (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Zzt",
+    "clue": "zur Zeit (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Mog",
+    "clue": "Maßgebl. (Abk.)",
+    "elo": 1400
+  },
+  {
+    "word": "Bes",
+    "clue": "besonders (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Allg",
+    "clue": "allgemein (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Sd",
+    "clue": "seinerzeit (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Aao",
+    "clue": "am angef. Ort (Abk.)",
+    "elo": 1300
+  },
+  {
+    "word": "Kfm",
+    "clue": "Kaufmann (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Doz",
+    "clue": "Dozent (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Mio",
+    "clue": "Million (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Mrd",
+    "clue": "Milliarde (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Ank",
+    "clue": "Ankunft (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Abf",
+    "clue": "Abfahrt (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Sog",
+    "clue": "sogenannt (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Zzgl",
+    "clue": "zuzüglich (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Inkl",
+    "clue": "inklusive (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Abst",
+    "clue": "Abstammung (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Ggf",
+    "clue": "gegebenenf. (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Urv",
+    "clue": "Urverfasser (Abk.)",
+    "elo": 1400
+  },
+  {
+    "word": "Ie",
+    "clue": "id est / das heißt (Abk.)",
+    "elo": 1300
+  },
+  {
+    "word": "Afr",
+    "clue": "Afrika (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Eur",
+    "clue": "Europa (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "As",
+    "clue": "Asien (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Am",
+    "clue": "Amerika (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Bgl",
+    "clue": "bürgerlich (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Tsd",
+    "clue": "Tausend (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Nn",
+    "clue": "Normalnull (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "St",
+    "clue": "Sankt / Straße (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Prof",
+    "clue": "Professor (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Dipl",
+    "clue": "Diplom (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Mg",
+    "clue": "Milligramm (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Dl",
+    "clue": "Deziliter (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Kts",
+    "clue": "Knoten (Geschw. Abk.)",
+    "elo": 1300
+  },
+  {
+    "word": "Hkt",
+    "clue": "Herkunft (Abk.)",
+    "elo": 1400
+  },
+  {
+    "word": "Adon",
+    "clue": "phöniz. Gottheit",
+    "elo": 1500
+  },
+  {
+    "word": "Aegis",
+    "clue": "Schutzschild (Mythol.)",
+    "elo": 1400
+  },
+  {
+    "word": "Aeneas",
+    "clue": "trojan. Held",
+    "elo": 1300
+  },
+  {
+    "word": "Aeon",
+    "clue": "langer Zeitraum",
+    "elo": 1400
+  },
+  {
+    "word": "Aero",
+    "clue": "Vorsilbe: Luft",
+    "elo": 1100
+  },
+  {
+    "word": "Agave",
+    "clue": "Wüstenpflanze",
+    "elo": 1200
+  },
+  {
+    "word": "Agon",
+    "clue": "Wettkampf (griech.)",
+    "elo": 1500
+  },
+  {
+    "word": "Ahle",
+    "clue": "Stechwerkzeug",
+    "elo": 1200
+  },
+  {
+    "word": "Ahorn",
+    "clue": "Laubbaumart",
+    "elo": 1100
+  },
+  {
+    "word": "Ais",
+    "clue": "erhöhter Ton A",
+    "elo": 1100
+  },
+  {
+    "word": "Akne",
+    "clue": "Hautkrankheit",
+    "elo": 1100
+  },
+  {
+    "word": "Akte",
+    "clue": "Schriftstück",
+    "elo": 1000
+  },
+  {
+    "word": "Aktiva",
+    "clue": "Vermögenswerte",
+    "elo": 1300
+  },
+  {
+    "word": "Akut",
+    "clue": "plötzlich auftretend",
+    "elo": 1100
+  },
+  {
+    "word": "Albedo",
+    "clue": "Rückstrahlvermögen",
+    "elo": 1500
+  },
+  {
+    "word": "Alchimie",
+    "clue": "alte Goldmacherkunst",
+    "elo": 1300
+  },
+  {
+    "word": "Aldebaran",
+    "clue": "Fixstern im Stier",
+    "elo": 1500
+  },
+  {
+    "word": "Alias",
+    "clue": "andernfalls, Deckname",
+    "elo": 1200
+  },
+  {
+    "word": "Alibi",
+    "clue": "Abwesenheitsnachweis",
+    "elo": 1100
+  },
+  {
+    "word": "Alkaid",
+    "clue": "Stern im Gr. Bären",
+    "elo": 1500
+  },
+  {
+    "word": "All",
+    "clue": "Weltraum",
+    "elo": 1000
+  },
+  {
+    "word": "Allegro",
+    "clue": "schnell (Musik)",
+    "elo": 1200
+  },
+  {
+    "word": "Allüre",
+    "clue": "Gehabe, Benehmen",
+    "elo": 1300
+  },
+  {
+    "word": "Aloe",
+    "clue": "Heilpflanze",
+    "elo": 1100
+  },
+  {
+    "word": "Alpha",
+    "clue": "griech. Buchstabe",
+    "elo": 1100
+  },
+  {
+    "word": "Altai",
+    "clue": "Gebirge in Asien",
+    "elo": 1300
+  },
+  {
+    "word": "Altist",
+    "clue": "tiefe Singstimme",
+    "elo": 1200
+  },
+  {
+    "word": "Ambo",
+    "clue": "Lesepult i. d. Kirche",
+    "elo": 1400
+  },
+  {
+    "word": "Ambra",
+    "clue": "Duftstoff v. Wal",
+    "elo": 1400
+  },
+  {
+    "word": "Amme",
+    "clue": "Säuglingspflegerin",
+    "elo": 1200
+  },
+  {
+    "word": "Ammon",
+    "clue": "ägypt. Gott",
+    "elo": 1300
+  },
+  {
+    "word": "Amur",
+    "clue": "Grenzfluss Asiens",
+    "elo": 1300
+  },
+  {
+    "word": "Anode",
+    "clue": "Pluspol",
+    "elo": 1300
+  },
+  {
+    "word": "Anorak",
+    "clue": "Windjacke",
+    "elo": 1100
+  },
+  {
+    "word": "Antik",
+    "clue": "altertümlich",
+    "elo": 1100
+  },
+  {
+    "word": "Antlitz",
+    "clue": "geh. f. Gesicht",
+    "elo": 1300
+  },
+  {
+    "word": "Anzug",
+    "clue": "Kleidungsstück",
+    "elo": 1000
+  },
+  {
+    "word": "Apanage",
+    "clue": "fürstl. Unterhalt",
+    "elo": 1500
+  },
+  {
+    "word": "Apfel",
+    "clue": "Kernobst",
+    "elo": 1000
+  },
+  {
+    "word": "Aphel",
+    "clue": "sonnenfernster Punkt",
+    "elo": 1500
+  },
+  {
+    "word": "Aphrodite",
+    "clue": "Göttin d. Liebe",
+    "elo": 1200
+  },
+  {
+    "word": "Apis",
+    "clue": "ägypt. Stiergott",
+    "elo": 1400
+  },
+  {
+    "word": "Apollo",
+    "clue": "griech. Gott",
+    "elo": 1200
+  },
+  {
+    "word": "Aporie",
+    "clue": "Ausweglosigkeit",
+    "elo": 1500
+  },
+  {
+    "word": "App",
+    "clue": "Anwendungsprogramm",
+    "elo": 1000
+  },
+  {
+    "word": "Appell",
+    "clue": "Aufruf",
+    "elo": 1100
+  },
+  {
+    "word": "Apraxie",
+    "clue": "Bewegungsstörung",
+    "elo": 1500
+  },
+  {
+    "word": "April",
+    "clue": "Frühlingsmonat",
+    "elo": 1000
+  },
+  {
+    "word": "Apsis",
+    "clue": "Kirchennische",
+    "elo": 1400
+  },
+  {
+    "word": "Aqua",
+    "clue": "lat. f. Wasser",
+    "elo": 1100
+  },
+  {
+    "word": "Äquator",
+    "clue": "Gürtel d. Erde",
+    "elo": 1100
+  },
+  {
+    "word": "Ara",
+    "clue": "Papageienart",
+    "elo": 1200
+  },
+  {
+    "word": "Arabesk",
+    "clue": "Verschlungen (Verz.)",
+    "elo": 1400
+  },
+  {
+    "word": "Aralsee",
+    "clue": "Gewässer in Asien",
+    "elo": 1300
+  },
+  {
+    "word": "Arbeit",
+    "clue": "Tätigkeit",
+    "elo": 1000
+  },
+  {
+    "word": "Arcus",
+    "clue": "lat. f. Bogen",
+    "elo": 1400
+  },
+  {
+    "word": "Areal",
+    "clue": "Fläche, Gebiet",
+    "elo": 1200
+  },
+  {
+    "word": "Arena",
+    "clue": "Kampfbahn",
+    "elo": 1100
+  },
+  {
+    "word": "Areopag",
+    "clue": "höchstes Gericht AT",
+    "elo": 1500
+  },
+  {
+    "word": "Argon",
+    "clue": "Edelgas",
+    "elo": 1300
+  },
+  {
+    "word": "Argos",
+    "clue": "Stadt d. Peloponnes",
+    "elo": 1400
+  },
+  {
+    "word": "Argus",
+    "clue": "Vieläugiger (Myth.)",
+    "elo": 1300
+  },
+  {
+    "word": "Aride",
+    "clue": "trocken (Klima)",
+    "elo": 1400
+  },
+  {
+    "word": "Arkadien",
+    "clue": "Land d. Hirten (Myth.)",
+    "elo": 1400
+  },
+  {
+    "word": "Arktis",
+    "clue": "nördl. Polargebiet",
+    "elo": 1100
+  },
+  {
+    "word": "Armee",
+    "clue": "Streitmacht",
+    "elo": 1100
+  },
+  {
+    "word": "Aroma",
+    "clue": "Wohlgeschmack",
+    "elo": 1100
+  },
+  {
+    "word": "Arrak",
+    "clue": "Reisbranntwein",
+    "elo": 1400
+  },
+  {
+    "word": "Arrest",
+    "clue": "Haft",
+    "elo": 1200
+  },
+  {
+    "word": "Art",
+    "clue": "Gattung, Weise",
+    "elo": 1000
+  },
+  {
+    "word": "Artemis",
+    "clue": "Jagdgöttin",
+    "elo": 1300
+  },
+  {
+    "word": "Artikel",
+    "clue": "Ware, Textteil",
+    "elo": 1100
+  },
+  {
+    "word": "Arznei",
+    "clue": "Medikament",
+    "elo": 1100
+  },
+  {
+    "word": "Asams",
+    "clue": "Barockbaumeister",
+    "elo": 1500
+  },
+  {
+    "word": "Asbest",
+    "clue": "feuerfestes Mineral",
+    "elo": 1300
+  },
+  {
+    "word": "Ascot",
+    "clue": "engl. Rennplatz",
+    "elo": 1400
+  },
+  {
+    "word": "Asgard",
+    "clue": "Wohnsitz d. Götter",
+    "elo": 1300
+  },
+  {
+    "word": "Askese",
+    "clue": "Enthaltsamkeit",
+    "elo": 1300
+  },
+  {
+    "word": "Aspekt",
+    "clue": "Gesichtspunkt",
+    "elo": 1200
+  },
+  {
+    "word": "Aspik",
+    "clue": "Fleischsülze",
+    "elo": 1200
+  },
+  {
+    "word": "Asset",
+    "clue": "Vermögenswert (engl.)",
+    "elo": 1400
+  },
+  {
+    "word": "Aster",
+    "clue": "Korbblütler",
+    "elo": 1200
+  },
+  {
+    "word": "Ästhet",
+    "clue": "Schöngeist",
+    "elo": 1300
+  },
+  {
+    "word": "Astral",
+    "clue": "die Sterne betr.",
+    "elo": 1300
+  },
+  {
+    "word": "Asyl",
+    "clue": "Zufluchtsort",
+    "elo": 1100
+  },
+  {
+    "word": "Atelier",
+    "clue": "Werkstatt e. Künstlers",
+    "elo": 1200
+  },
+  {
+    "word": "Athen",
+    "clue": "Hptst. v. Griechenland",
+    "elo": 1100
+  },
+  {
+    "word": "Athlet",
+    "clue": "Kraftsportler",
+    "elo": 1200
+  },
+  {
+    "word": "Atman",
+    "clue": "Atem d. Welt (ind.)",
+    "elo": 1500
+  },
+  {
+    "word": "Atoll",
+    "clue": "Koralleninsel",
+    "elo": 1200
+  },
+  {
+    "word": "Atom",
+    "clue": "kleinstes Teilchen",
+    "elo": 1100
+  },
+  {
+    "word": "Attika",
+    "clue": "Landschaft um Athen",
+    "elo": 1300
+  },
+  {
+    "word": "Attila",
+    "clue": "Hunnenkönig",
+    "elo": 1200
+  },
+  {
+    "word": "Aubergine",
+    "clue": "Eierfrucht",
+    "elo": 1100
+  },
+  {
+    "word": "Audio",
+    "clue": "Hörtechnik",
+    "elo": 1100
+  },
+  {
+    "word": "Audit",
+    "clue": "Anhörung, Prüfung",
+    "elo": 1300
+  },
+  {
+    "word": "Aue",
+    "clue": "Flusswiese",
+    "elo": 1200
+  },
+  {
+    "word": "Aufbau",
+    "clue": "Konstruktion",
+    "elo": 1000
+  },
+  {
+    "word": "Auflauf",
+    "clue": "Gericht / Versammlung",
+    "elo": 1100
+  },
+  {
+    "word": "Aufruf",
+    "clue": "Appell",
+    "elo": 1100
+  },
+  {
+    "word": "Aufzug",
+    "clue": "Lift / Theaterteil",
+    "elo": 1100
+  },
+  {
+    "word": "Augur",
+    "clue": "Wahrsager i. Röm.",
+    "elo": 1400
+  },
+  {
+    "word": "August",
+    "clue": "Sommermonat",
+    "elo": 1000
+  },
+  {
+    "word": "Aula",
+    "clue": "Versammlungshalle",
+    "elo": 1200
+  },
+  {
+    "word": "Aurikel",
+    "clue": "Schlüsselblume",
+    "elo": 1400
+  },
+  {
+    "word": "Aurora",
+    "clue": "Morgenröte",
+    "elo": 1300
+  },
+  {
+    "word": "Ausbau",
+    "clue": "Erweiterung",
+    "elo": 1100
+  },
+  {
+    "word": "Aussen",
+    "clue": "nicht drinnen",
+    "elo": 1000
+  },
+  {
+    "word": "Auster",
+    "clue": "Meeresmuschel",
+    "elo": 1200
+  },
+  {
+    "word": "Autark",
+    "clue": "selbstversorgend",
+    "elo": 1300
+  },
+  {
+    "word": "Autor",
+    "clue": "Verfasser",
+    "elo": 1100
+  },
+  {
+    "word": "Avers",
+    "clue": "Münzvorderseite",
+    "elo": 1400
+  },
+  {
+    "word": "Aviso",
+    "clue": "Anzeige, Meldung",
+    "elo": 1500
+  },
+  {
+    "word": "Axiom",
+    "clue": "Grundsatz",
+    "elo": 1400
+  },
+  {
+    "word": "Axt",
+    "clue": "Hauwerkzeug",
+    "elo": 1100
+  },
+  {
+    "word": "Ayurveda",
+    "clue": "ind. Heilkunde",
+    "elo": 1300
+  },
+  {
+    "word": "Azetat",
+    "clue": "Essigsäuresalz",
+    "elo": 1400
+  },
+  {
+    "word": "Azubi",
+    "clue": "Lehrling (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Azur",
+    "clue": "himmelblau",
+    "elo": 1200
+  },
+  {
+    "word": "Baal",
+    "clue": "semit. Gottheit",
+    "elo": 1300
+  },
+  {
+    "word": "Baba",
+    "clue": "orient. Väterchen",
+    "elo": 1400
+  },
+  {
+    "word": "Babel",
+    "clue": "Turmbauort (Bibel)",
+    "elo": 1200
+  },
+  {
+    "word": "Bach",
+    "clue": "dt. Komponist",
+    "elo": 1100
+  },
+  {
+    "word": "Backe",
+    "clue": "Teil d. Gesichts",
+    "elo": 1100
+  },
+  {
+    "word": "Bacon",
+    "clue": "engl. f. Speck",
+    "elo": 1200
+  },
+  {
+    "word": "Bad",
+    "clue": "Körperreinigung",
+    "elo": 1000
+  },
+  {
+    "word": "Baden",
+    "clue": "dt. Region",
+    "elo": 1100
+  },
+  {
+    "word": "Bafel",
+    "clue": "ugs. f. wertlos",
+    "elo": 1500
+  },
+  {
+    "word": "Bagel",
+    "clue": "ringförm. Gebäck",
+    "elo": 1200
+  },
+  {
+    "word": "Baguette",
+    "clue": "Stangenbrot",
+    "elo": 1100
+  },
+  {
+    "word": "Bahn",
+    "clue": "Geleise, Strecke",
+    "elo": 1000
+  },
+  {
+    "word": "Baht",
+    "clue": "Währung v. Thailand",
+    "elo": 1400
+  },
+  {
+    "word": "Bai",
+    "clue": "Meeresbucht",
+    "elo": 1300
+  },
+  {
+    "word": "Bais",
+    "clue": "Börsenhausse (Abk.)",
+    "elo": 1400
+  },
+  {
+    "word": "Bake",
+    "clue": "Wahrzeichen (See)",
+    "elo": 1300
+  },
+  {
+    "word": "Bakel",
+    "clue": "Schulstock",
+    "elo": 1500
+  },
+  {
+    "word": "Balance",
+    "clue": "Gleichgewicht",
+    "elo": 1200
+  },
+  {
+    "word": "Balg",
+    "clue": "abgezogene Tierhaut",
+    "elo": 1300
+  },
+  {
+    "word": "Bali",
+    "clue": "Insel i. Indonesien",
+    "elo": 1200
+  },
+  {
+    "word": "Balken",
+    "clue": "Träger aus Holz",
+    "elo": 1100
+  },
+  {
+    "word": "Ballad",
+    "clue": "Gedichtform (Abk.)",
+    "elo": 1300
+  },
+  {
+    "word": "Ballast",
+    "clue": "beschwerendes Gut",
+    "elo": 1200
+  },
+  {
+    "word": "Ballon",
+    "clue": "Luftfahrzeug",
+    "elo": 1100
+  },
+  {
+    "word": "Balsam",
+    "clue": "heilendes Harz",
+    "elo": 1200
+  },
+  {
+    "word": "Balu",
+    "clue": "Bär im Dschungelbuch",
+    "elo": 1200
+  },
+  {
+    "word": "Bambus",
+    "clue": "trop. Riesengras",
+    "elo": 1200
+  },
+  {
+    "word": "Bammel",
+    "clue": "ugs. f. Angst",
+    "elo": 1100
+  },
+  {
+    "word": "Ban",
+    "clue": "jugoslaw. Titel",
+    "elo": 1500
+  },
+  {
+    "word": "Banat",
+    "clue": "Landschaft i. SE-Eur.",
+    "elo": 1400
+  },
+  {
+    "word": "Band",
+    "clue": "Buchteil, Streifen",
+    "elo": 1100
+  },
+  {
+    "word": "Bande",
+    "clue": "Rand / Gruppe",
+    "elo": 1100
+  },
+  {
+    "word": "Bang",
+    "clue": "ängstlich",
+    "elo": 1100
+  },
+  {
+    "word": "Banjul",
+    "clue": "Hptst. v. Gambia",
+    "elo": 1400
+  },
+  {
+    "word": "Bank",
+    "clue": "Sitzmöbel / Geldinst.",
+    "elo": 1000
+  },
+  {
+    "word": "Bankert",
+    "clue": "unehel. Kind (derb)",
+    "elo": 1500
+  },
+  {
+    "word": "Bann",
+    "clue": "Ausschluss",
+    "elo": 1200
+  },
+  {
+    "word": "Bansen",
+    "clue": "Getreidespeicher",
+    "elo": 1400
+  },
+  {
+    "word": "Bantus",
+    "clue": "Völkergruppe Afrikas",
+    "elo": 1300
+  },
+  {
+    "word": "Bar",
+    "clue": "Lokal / Trinkstube",
+    "elo": 1000
+  },
+  {
+    "word": "Bär",
+    "clue": "Raubtier",
+    "elo": 1100
+  },
+  {
+    "word": "Barde",
+    "clue": "kelten. Sänger",
+    "elo": 1300
+  },
+  {
+    "word": "Barem",
+    "clue": "Bargeld",
+    "elo": 1200
+  },
+  {
+    "word": "Barit",
+    "clue": "Schwerspat",
+    "elo": 1500
+  },
+  {
+    "word": "Baron",
+    "clue": "Adelstitel",
+    "elo": 1200
+  },
+  {
+    "word": "Barre",
+    "clue": "Metallstange",
+    "elo": 1300
+  },
+  {
+    "word": "Barte",
+    "clue": "Bein d. Bartenwals",
+    "elo": 1400
+  },
+  {
+    "word": "Baruch",
+    "clue": "Prophet im AT",
+    "elo": 1400
+  },
+  {
+    "word": "Beryll",
+    "clue": "Edelstein",
+    "elo": 1400
+  },
+  {
+    "word": "Bayer",
+    "clue": "Bewohner Bayerns",
+    "elo": 1100
+  },
+  {
+    "word": "Bazill",
+    "clue": "Bakterium (Abk.)",
+    "elo": 1300
+  },
+  {
+    "word": "Bbi",
+    "clue": "Berlin Brandenb. (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Beamer",
+    "clue": "Projektionsgerät",
+    "elo": 1100
+  },
+  {
+    "word": "Beate",
+    "clue": "Frauenname",
+    "elo": 1100
+  },
+  {
+    "word": "Beatle",
+    "clue": "Mitgl. d. Pilzköpfe",
+    "elo": 1200
+  },
+  {
+    "word": "Beau",
+    "clue": "Stutzer, Schönling",
+    "elo": 1300
+  },
+  {
+    "word": "Bebe",
+    "clue": "Kleinkind (frz.)",
+    "elo": 1400
+  },
+  {
+    "word": "Becher",
+    "clue": "Trinkgefäß",
+    "elo": 1100
+  },
+  {
+    "word": "Becken",
+    "clue": "Teil d. Skeletts",
+    "elo": 1200
+  },
+  {
+    "word": "Bedarf",
+    "clue": "Nachfrage, Nötiges",
+    "elo": 1100
+  },
+  {
+    "word": "Bedouin",
+    "clue": "Wüstenbewohner (Abk.)",
+    "elo": 1300
+  },
+  {
+    "word": "Bee",
+    "clue": "engl. f. Biene",
+    "elo": 1200
+  },
+  {
+    "word": "Beere",
+    "clue": "kleine Frucht",
+    "elo": 1100
+  },
+  {
+    "word": "Beet",
+    "clue": "Gartenanlage",
+    "elo": 1100
+  },
+  {
+    "word": "Befehl",
+    "clue": "Kommando",
+    "elo": 1100
+  },
+  {
+    "word": "Beginn",
+    "clue": "Start, Anfang",
+    "elo": 1000
+  },
+  {
+    "word": "Begum",
+    "clue": "ind. Fürstentitel",
+    "elo": 1500
+  },
+  {
+    "word": "Beicht",
+    "clue": "relig. Sündenbekennt.",
+    "elo": 1200
+  },
+  {
+    "word": "Beige",
+    "clue": "Farbe / Stapel",
+    "elo": 1100
+  },
+  {
+    "word": "Beil",
+    "clue": "Axtwerkzeug",
+    "elo": 1100
+  },
+  {
+    "word": "Bein",
+    "clue": "Extremität",
+    "elo": 1000
+  },
+  {
+    "word": "Beitrag",
+    "clue": "Abgabe, Artikel",
+    "elo": 1100
+  },
+  {
+    "word": "Beiwag",
+    "clue": "Motorradteil (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Beize",
+    "clue": "Flüssigkeit (Techn.)",
+    "elo": 1300
+  },
+  {
+    "word": "Bekas",
+    "clue": "Sumpfogel",
+    "elo": 1400
+  },
+  {
+    "word": "Bel",
+    "clue": "akust. Maßeinheit",
+    "elo": 1400
+  },
+  {
+    "word": "Belag",
+    "clue": "Schicht",
+    "elo": 1100
+  },
+  {
+    "word": "Beleg",
+    "clue": "Nachweis",
+    "elo": 1100
+  },
+  {
+    "word": "Belfort",
+    "clue": "Stadt i. Frankreich",
+    "elo": 1400
+  },
+  {
+    "word": "Belgrad",
+    "clue": "Hptst. v. Serbien",
+    "elo": 1200
+  },
+  {
+    "word": "Belle",
+    "clue": "Schöne (frz.)",
+    "elo": 1300
+  },
+  {
+    "word": "Bellum",
+    "clue": "lat. f. Krieg",
+    "elo": 1400
+  },
+  {
+    "word": "Beluga",
+    "clue": "Stör-Kaviar / Wal",
+    "elo": 1300
+  },
+  {
+    "word": "Bembel",
+    "clue": "hess. Weinkrug",
+    "elo": 1400
+  },
+  {
+    "word": "Bengel",
+    "clue": "unartiges Kind",
+    "elo": 1100
+  },
+  {
+    "word": "Benin",
+    "clue": "Staat i. W-Afrika",
+    "elo": 1200
+  },
+  {
+    "word": "Benn",
+    "clue": "dt. Lyriker (Gottfried)",
+    "elo": 1300
+  },
+  {
+    "word": "Benz",
+    "clue": "Automobilpionier",
+    "elo": 1200
+  },
+  {
+    "word": "Benzol",
+    "clue": "chem. Verbindung",
+    "elo": 1300
+  },
+  {
+    "word": "Berber",
+    "clue": "Volk i. Maghreb",
+    "elo": 1300
+  },
+  {
+    "word": "Bereich",
+    "clue": "Zone, Sektor",
+    "elo": 1100
+  },
+  {
+    "word": "Beret",
+    "clue": "Baskenmütze",
+    "elo": 1300
+  },
+  {
+    "word": "Berg",
+    "clue": "Erhebung",
+    "elo": 1000
+  },
+  {
+    "word": "Berge",
+    "clue": "retten v. Schiffen",
+    "elo": 1300
+  },
+  {
+    "word": "Bergen",
+    "clue": "Stadt i. Norwegen",
+    "elo": 1200
+  },
+  {
+    "word": "Beryll",
+    "clue": "Smaragd-Mineral",
+    "elo": 1400
+  },
+  {
+    "word": "Besan",
+    "clue": "hinterer Mast",
+    "elo": 1400
+  },
+  {
+    "word": "Besatz",
+    "clue": "Verzierung (Kleid.)",
+    "elo": 1300
+  },
+  {
+    "word": "Besen",
+    "clue": "Feger",
+    "elo": 1100
+  },
+  {
+    "word": "Bester",
+    "clue": "Sieger",
+    "elo": 1100
+  },
+  {
+    "word": "Bestie",
+    "clue": "wildes Tier",
+    "elo": 1200
+  },
+  {
+    "word": "Beton",
+    "clue": "Baustoff",
+    "elo": 1100
+  },
+  {
+    "word": "Betrag",
+    "clue": "Geldsumme",
+    "elo": 1000
+  },
+  {
+    "word": "Bett",
+    "clue": "Schlafstätte",
+    "elo": 1000
+  },
+  {
+    "word": "Beuge",
+    "clue": "Gelenkstelle",
+    "elo": 1200
+  },
+  {
+    "word": "Beule",
+    "clue": "Anschwellung",
+    "elo": 1100
+  },
+  {
+    "word": "Beute",
+    "clue": "Raubgut",
+    "elo": 1100
+  },
+  {
+    "word": "Beutel",
+    "clue": "Tasche, Sack",
+    "elo": 1100
+  },
+  {
+    "word": "Bez",
+    "clue": "Bezirk (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Bhf",
+    "clue": "Bahnhof (Abk.)",
+    "elo": 1000
+  },
+  {
+    "word": "Bbi",
+    "clue": "Flugh. Berlin (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Bds",
+    "clue": "Bundesverb. (Abk.)",
+    "elo": 1300
+  },
+  {
+    "word": "Bgh",
+    "clue": "Bundesgerichtsh. (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Beryll",
+    "clue": "Smaragdmineral",
+    "elo": 1400
+  },
+  {
+    "word": "Beryll",
+    "clue": "Edelstein",
+    "elo": 1300
+  },
+  {
+    "word": "Beta",
+    "clue": "griech. Buchstabe",
+    "elo": 1100
+  },
+  {
+    "word": "Betel",
+    "clue": "asiat. Genusspflanze",
+    "elo": 1500
+  },
+  {
+    "word": "Beton",
+    "clue": "Baustoff",
+    "elo": 1100
+  },
+  {
+    "word": "Beule",
+    "clue": "Anschwellung",
+    "elo": 1000
+  },
+  {
+    "word": "Beute",
+    "clue": "Raubgut",
+    "elo": 1100
+  },
+  {
+    "word": "Bibel",
+    "clue": "Heilige Schrift",
+    "elo": 1000
+  },
+  {
+    "word": "Bidet",
+    "clue": "Sitzwaschbecken",
+    "elo": 1200
+  },
+  {
+    "word": "Biene",
+    "clue": "honigsammelndes Insekt",
+    "elo": 1000
+  },
+  {
+    "word": "Bier",
+    "clue": "Hopfengetränk",
+    "elo": 1000
+  },
+  {
+    "word": "Bijou",
+    "clue": "Schmuckstück (frz.)",
+    "elo": 1400
+  },
+  {
+    "word": "Bilanz",
+    "clue": "Abschlussrechnung",
+    "elo": 1200
+  },
+  {
+    "word": "Bild",
+    "clue": "Gemälde, Foto",
+    "elo": 1000
+  },
+  {
+    "word": "Billard",
+    "clue": "Kugelspiel",
+    "elo": 1100
+  },
+  {
+    "word": "Bims",
+    "clue": "Vulkangestein",
+    "elo": 1300
+  },
+  {
+    "word": "Binär",
+    "clue": "zweifach, zweiteilig",
+    "elo": 1300
+  },
+  {
+    "word": "Binde",
+    "clue": "Verband",
+    "elo": 1100
+  },
+  {
+    "word": "Binn",
+    "clue": "Binnen (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Binom",
+    "clue": "zweigliedr. Ausdruck",
+    "elo": 1500
+  },
+  {
+    "word": "Biogas",
+    "clue": "ökolog. Brennstoff",
+    "elo": 1100
+  },
+  {
+    "word": "Biom",
+    "clue": "Lebensgemeinschaft",
+    "elo": 1500
+  },
+  {
+    "word": "Biopsie",
+    "clue": "Gewebeentnahme",
+    "elo": 1300
+  },
+  {
+    "word": "Biotop",
+    "clue": "Lebensraum",
+    "elo": 1200
+  },
+  {
+    "word": "Birke",
+    "clue": "Laubbaum",
+    "elo": 1000
+  },
+  {
+    "word": "Birne",
+    "clue": "Kernobstfrucht",
+    "elo": 1000
+  },
+  {
+    "word": "Biskuit",
+    "clue": "Feingebäck",
+    "elo": 1200
+  },
+  {
+    "word": "Bison",
+    "clue": "Wildrind",
+    "elo": 1200
+  },
+  {
+    "word": "Biss",
+    "clue": "Zahnwunde",
+    "elo": 1000
+  },
+  {
+    "word": "Bistro",
+    "clue": "kleines Lokal",
+    "elo": 1100
+  },
+  {
+    "word": "Bit",
+    "clue": "Recheneinheit",
+    "elo": 1000
+  },
+  {
+    "word": "Bitte",
+    "clue": "Ersuchen",
+    "elo": 1000
+  },
+  {
+    "word": "Biwak",
+    "clue": "Nachtlager im Freien",
+    "elo": 1300
+  },
+  {
+    "word": "Bizeps",
+    "clue": "Armmuskel",
+    "elo": 1100
+  },
+  {
+    "word": "Blage",
+    "clue": "unartiges Kind",
+    "elo": 1300
+  },
+  {
+    "word": "Blank",
+    "clue": "glänzend, nackt",
+    "elo": 1100
+  },
+  {
+    "word": "Blase",
+    "clue": "Harnorgan",
+    "elo": 1100
+  },
+  {
+    "word": "Blatt",
+    "clue": "Pflanzenteil",
+    "elo": 1000
+  },
+  {
+    "word": "Blau",
+    "clue": "Farbe",
+    "elo": 1000
+  },
+  {
+    "word": "Blei",
+    "clue": "Schwermetall",
+    "elo": 1100
+  },
+  {
+    "word": "Blende",
+    "clue": "Kamerateil",
+    "elo": 1200
+  },
+  {
+    "word": "Blesse",
+    "clue": "weißer Stirnfleck",
+    "elo": 1400
+  },
+  {
+    "word": "Blick",
+    "clue": "Sicht, Schau",
+    "elo": 1000
+  },
+  {
+    "word": "Blind",
+    "clue": "ohne Sehvermögen",
+    "elo": 1100
+  },
+  {
+    "word": "Blitz",
+    "clue": "Wettererscheinung",
+    "elo": 1000
+  },
+  {
+    "word": "Block",
+    "clue": "Verbund, Klotz",
+    "elo": 1000
+  },
+  {
+    "word": "Blond",
+    "clue": "hellhaarig",
+    "elo": 1100
+  },
+  {
+    "word": "Blöße",
+    "clue": "Schwachstelle",
+    "elo": 1300
+  },
+  {
+    "word": "Blume",
+    "clue": "Blütenpflanze",
+    "elo": 1000
+  },
+  {
+    "word": "Blut",
+    "clue": "Körperflüssigkeit",
+    "elo": 1000
+  },
+  {
+    "word": "Blüte",
+    "clue": "Pflanzenteil",
+    "elo": 1000
+  },
+  {
+    "word": "Boa",
+    "clue": "Riesenschlange",
+    "elo": 1100
+  },
+  {
+    "word": "Bobbahn",
+    "clue": "Wintersportkanal",
+    "elo": 1200
+  },
+  {
+    "word": "Bock",
+    "clue": "männl. Reh/Ziege",
+    "elo": 1100
+  },
+  {
+    "word": "Boden",
+    "clue": "Untergrund",
+    "elo": 1000
+  },
+  {
+    "word": "Boe",
+    "clue": "Windstoß",
+    "elo": 1200
+  },
+  {
+    "word": "Bogen",
+    "clue": "Kurve, Waffe",
+    "elo": 1100
+  },
+  {
+    "word": "Bohne",
+    "clue": "Hülsenfrucht",
+    "elo": 1100
+  },
+  {
+    "word": "Bohr",
+    "clue": "Physiker (Niels)",
+    "elo": 1400
+  },
+  {
+    "word": "Boje",
+    "clue": "Schwimmkörper",
+    "elo": 1200
+  },
+  {
+    "word": "Bolero",
+    "clue": "span. Tanz / Jacke",
+    "elo": 1300
+  },
+  {
+    "word": "Böller",
+    "clue": "Knallkörper",
+    "elo": 1100
+  },
+  {
+    "word": "Bolzen",
+    "clue": "Schraube, Stift",
+    "elo": 1200
+  },
+  {
+    "word": "Bombig",
+    "clue": "ugs. f. hervorragend",
+    "elo": 1200
+  },
+  {
+    "word": "Bon",
+    "clue": "Gutschein",
+    "elo": 1100
+  },
+  {
+    "word": "Bongo",
+    "clue": "Handtrommel",
+    "elo": 1200
+  },
+  {
+    "word": "Boni",
+    "clue": "Zusatzvergütungen",
+    "elo": 1200
+  },
+  {
+    "word": "Bonn",
+    "clue": "ehem. dt. Hauptstadt",
+    "elo": 1100
+  },
+  {
+    "word": "Bonus",
+    "clue": "Prämie",
+    "elo": 1100
+  },
+  {
+    "word": "Boot",
+    "clue": "kl. Wasserfahrzeug",
+    "elo": 1000
+  },
+  {
+    "word": "Bor",
+    "clue": "chem. Element",
+    "elo": 1400
+  },
+  {
+    "word": "Bord",
+    "clue": "Schiffskante",
+    "elo": 1100
+  },
+  {
+    "word": "Borke",
+    "clue": "Baumrinde",
+    "elo": 1200
+  },
+  {
+    "word": "Born",
+    "clue": "geh. f. Quelle",
+    "elo": 1300
+  },
+  {
+    "word": "Börse",
+    "clue": "Aktienmarkt",
+    "elo": 1100
+  },
+  {
+    "word": "Borste",
+    "clue": "hartes Tierhaar",
+    "elo": 1200
+  },
+  {
+    "word": "Borte",
+    "clue": "Zierstreifen",
+    "elo": 1300
+  },
+  {
+    "word": "Boson",
+    "clue": "Elementarteilchen",
+    "elo": 1500
+  },
+  {
+    "word": "Bote",
+    "clue": "Überbringer",
+    "elo": 1100
+  },
+  {
+    "word": "Botic",
+    "clue": "ital. Maler (Abk.)",
+    "elo": 1500
+  },
+  {
+    "word": "Bottich",
+    "clue": "großes Holzgefäß",
+    "elo": 1200
+  },
+  {
+    "word": "Boule",
+    "clue": "Kugelspiel (frz.)",
+    "elo": 1200
+  },
+  {
+    "word": "Boxen",
+    "clue": "Kampfsport",
+    "elo": 1100
+  },
+  {
+    "word": "Boy",
+    "clue": "engl. f. Junge",
+    "elo": 1000
+  },
+  {
+    "word": "Boykott",
+    "clue": "Ablehnung, Sperre",
+    "elo": 1200
+  },
+  {
+    "word": "Brache",
+    "clue": "unbenutztes Land",
+    "elo": 1300
+  },
+  {
+    "word": "Brack",
+    "clue": "Abfall, Schund",
+    "elo": 1400
+  },
+  {
+    "word": "Braille",
+    "clue": "Blindenschrift",
+    "elo": 1300
+  },
+  {
+    "word": "Brand",
+    "clue": "Feuer",
+    "elo": 1100
+  },
+  {
+    "word": "Bras",
+    "clue": "Segelteil",
+    "elo": 1500
+  },
+  {
+    "word": "Braten",
+    "clue": "Fleischgericht",
+    "elo": 1100
+  },
+  {
+    "word": "Brauch",
+    "clue": "Tradition",
+    "elo": 1100
+  },
+  {
+    "word": "Braue",
+    "clue": "Augenhaar",
+    "elo": 1100
+  },
+  {
+    "word": "Brauerei",
+    "clue": "Bierherstellung",
+    "elo": 1100
+  },
+  {
+    "word": "Braun",
+    "clue": "Erdton",
+    "elo": 1000
+  },
+  {
+    "word": "Braus",
+    "clue": "Überfluss, Prunk",
+    "elo": 1300
+  },
+  {
+    "word": "Brause",
+    "clue": "Duschkopf / Getränk",
+    "elo": 1100
+  },
+  {
+    "word": "Bravo",
+    "clue": "Beifallsruf",
+    "elo": 1100
+  },
+  {
+    "word": "Brei",
+    "clue": "musige Speise",
+    "elo": 1000
+  },
+  {
+    "word": "Breit",
+    "clue": "nicht schmal",
+    "elo": 1000
+  },
+  {
+    "word": "Bremse",
+    "clue": "Stoppvorrichtung",
+    "elo": 1100
+  },
+  {
+    "word": "Brennst",
+    "clue": "Brennstoff (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Brenz",
+    "clue": "Fluss in Ba-Wü",
+    "elo": 1400
+  },
+  {
+    "word": "Breslau",
+    "clue": "Stadt i. Polen",
+    "elo": 1200
+  },
+  {
+    "word": "Brett",
+    "clue": "Holzplatte",
+    "elo": 1000
+  },
+  {
+    "word": "Breve",
+    "clue": "päpstl. Erlass",
+    "elo": 1500
+  },
+  {
+    "word": "Brezel",
+    "clue": "Laugengebäck",
+    "elo": 1100
+  },
+  {
+    "word": "Brief",
+    "clue": "Postsendung",
+    "elo": 1000
+  },
+  {
+    "word": "Bries",
+    "clue": "Innereie (Kalb)",
+    "elo": 1500
+  },
+  {
+    "word": "Brigg",
+    "clue": "Zweimaster",
+    "elo": 1400
+  },
+  {
+    "word": "Brikett",
+    "clue": "Presskohle",
+    "elo": 1200
+  },
+  {
+    "word": "Brillant",
+    "clue": "geschl. Diamant",
+    "elo": 1200
+  },
+  {
+    "word": "Brille",
+    "clue": "Sehhilfe",
+    "elo": 1100
+  },
+  {
+    "word": "Brim",
+    "clue": "Rand (engl.)",
+    "elo": 1400
+  },
+  {
+    "word": "Brio",
+    "clue": "Schwung (Musik)",
+    "elo": 1400
+  },
+  {
+    "word": "Brise",
+    "clue": "leichter Wind",
+    "elo": 1100
+  },
+  {
+    "word": "Brit",
+    "clue": "Britte (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Britis",
+    "clue": "britisch (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Brodem",
+    "clue": "Dunst, Ausdünstung",
+    "elo": 1500
+  },
+  {
+    "word": "Brodie",
+    "clue": "Stahlhelm (engl.)",
+    "elo": 1500
+  },
+  {
+    "word": "Brokat",
+    "clue": "Prunkstoff",
+    "elo": 1400
+  },
+  {
+    "word": "Brom",
+    "clue": "chem. Element",
+    "elo": 1400
+  },
+  {
+    "word": "Brombeere",
+    "clue": "Waldbeere",
+    "elo": 1100
+  },
+  {
+    "word": "Bronze",
+    "clue": "Legierung",
+    "elo": 1100
+  },
+  {
+    "word": "Brosche",
+    "clue": "Ansteckschmuck",
+    "elo": 1200
+  },
+  {
+    "word": "Brot",
+    "clue": "Grundnahrungsmittel",
+    "elo": 1000
+  },
+  {
+    "word": "Brownie",
+    "clue": "Schokogebäck",
+    "elo": 1100
+  },
+  {
+    "word": "Bruch",
+    "clue": "Fraktur",
+    "elo": 1100
+  },
+  {
+    "word": "Brücke",
+    "clue": "Überführung",
+    "elo": 1000
+  },
+  {
+    "word": "Bruder",
+    "clue": "männl. Geschwister",
+    "elo": 1000
+  },
+  {
+    "word": "Brühe",
+    "clue": "Fleischsud",
+    "elo": 1100
+  },
+  {
+    "word": "Brumm",
+    "clue": "Brummen (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Brunnen",
+    "clue": "Wasserquelle",
+    "elo": 1100
+  },
+  {
+    "word": "Brust",
+    "clue": "Thorax",
+    "elo": 1100
+  },
+  {
+    "word": "Brut",
+    "clue": "Nachwuchs (Vögel)",
+    "elo": 1200
+  },
+  {
+    "word": "Brutto",
+    "clue": "vor Abzügen",
+    "elo": 1100
+  },
+  {
+    "word": "Bst",
+    "clue": "Bestellung (Abk.)",
+    "elo": 1100
+  },
+  {
+    "word": "Bto",
+    "clue": "Brutto (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Bub",
+    "clue": "Junge (süddt.)",
+    "elo": 1100
+  },
+  {
+    "word": "Bube",
+    "clue": "Kartenspielfigur",
+    "elo": 1100
+  },
+  {
+    "word": "Buch",
+    "clue": "Druckwerk",
+    "elo": 1000
+  },
+  {
+    "word": "Buche",
+    "clue": "Laubbaum",
+    "elo": 1100
+  },
+  {
+    "word": "Buchse",
+    "clue": "Steckverbindung",
+    "elo": 1200
+  },
+  {
+    "word": "Buckel",
+    "clue": "Rückenerhöhung",
+    "elo": 1200
+  },
+  {
+    "word": "Buddhism",
+    "clue": "Weltreligion (Abk.)",
+    "elo": 1300
+  },
+  {
+    "word": "Buddy",
+    "clue": "Kumpel (engl.)",
+    "elo": 1100
+  },
+  {
+    "word": "Budget",
+    "clue": "Finanzrahmen",
+    "elo": 1200
+  },
+  {
+    "word": "Büfett",
+    "clue": "Speisentisch",
+    "elo": 1200
+  },
+  {
+    "word": "Büffel",
+    "clue": "Wildrind",
+    "elo": 1200
+  },
+  {
+    "word": "Bug",
+    "clue": "Schiffsvorderteil",
+    "elo": 1200
+  },
+  {
+    "word": "Bügel",
+    "clue": "Halterung",
+    "elo": 1100
+  },
+  {
+    "word": "Buhne",
+    "clue": "Küstenschutzwall",
+    "elo": 1500
+  },
+  {
+    "word": "Bulle",
+    "clue": "Stier / ugs. Polizist",
+    "elo": 1100
+  },
+  {
+    "word": "Bund",
+    "clue": "Zusammenschluss",
+    "elo": 1000
+  },
+  {
+    "word": "Bunker",
+    "clue": "Schutzraum",
+    "elo": 1200
+  },
+  {
+    "word": "Bunt",
+    "clue": "vielfarbig",
+    "elo": 1000
+  },
+  {
+    "word": "Bürde",
+    "clue": "Last",
+    "elo": 1300
+  },
+  {
+    "word": "Burg",
+    "clue": "Festung",
+    "elo": 1100
+  },
+  {
+    "word": "Bürge",
+    "clue": "Sicherheitsgeber",
+    "elo": 1300
+  },
+  {
+    "word": "Bursche",
+    "clue": "junger Mann",
+    "elo": 1100
+  },
+  {
+    "word": "Bürste",
+    "clue": "Reinigungstool",
+    "elo": 1100
+  },
+  {
+    "word": "Bus",
+    "clue": "Omnibus",
+    "elo": 1000
+  },
+  {
+    "word": "Busch",
+    "clue": "Strauch",
+    "elo": 1100
+  },
+  {
+    "word": "Busen",
+    "clue": "weibl. Brust",
+    "elo": 1100
+  },
+  {
+    "word": "Bussard",
+    "clue": "Greifvogel",
+    "elo": 1200
+  },
+  {
+    "word": "Bustier",
+    "clue": "kurzes Oberteil",
+    "elo": 1400
+  },
+  {
+    "word": "Butan",
+    "clue": "Gas",
+    "elo": 1400
+  },
+  {
+    "word": "Bütt",
+    "clue": "Rednerpult (Karneval)",
+    "elo": 1300
+  },
+  {
+    "word": "Butte",
+    "clue": "Tragekorb",
+    "elo": 1400
+  },
+  {
+    "word": "Butter",
+    "clue": "Streichfett",
+    "elo": 1000
+  },
+  {
+    "word": "Button",
+    "clue": "Schaltfläche / Knopf",
+    "elo": 1100
+  },
+  {
+    "word": "Bux",
+    "clue": "ugs. Hose",
+    "elo": 1400
+  },
+  {
+    "word": "Byzanz",
+    "clue": "altes Istanbul",
+    "elo": 1300
+  },
+  {
+    "word": "Caddie",
+    "clue": "Golf-Taschenträger",
+    "elo": 1200
+  },
+  {
+    "word": "Cadmium",
+    "clue": "Metall",
+    "elo": 1400
+  },
+  {
+    "word": "Cafe",
+    "clue": "Kaffeehaus",
+    "elo": 1000
+  },
+  {
+    "word": "Calcium",
+    "clue": "Knochenbaustein",
+    "elo": 1200
+  },
+  {
+    "word": "Cally",
+    "clue": "Koseform f. Caroline",
+    "elo": 1400
+  },
+  {
+    "word": "Calzone",
+    "clue": "Faltpizza",
+    "elo": 1200
+  },
+  {
+    "word": "Cambio",
+    "clue": "ital. Geldwechsel",
+    "elo": 1400
+  },
+  {
+    "word": "Camper",
+    "clue": "Zelturlauber",
+    "elo": 1100
+  },
+  {
+    "word": "Camping",
+    "clue": "Freilufturlaub",
+    "elo": 1100
+  },
+  {
+    "word": "Campus",
+    "clue": "Universitätsgelände",
+    "elo": 1200
+  },
+  {
+    "word": "Canada",
+    "clue": "Staat in N-Amerika",
+    "elo": 1100
+  },
+  {
+    "word": "Canasta",
+    "clue": "Kartenspiel",
+    "elo": 1300
+  },
+  {
+    "word": "Canyon",
+    "clue": "Felsenschlucht",
+    "elo": 1200
+  },
+  {
+    "word": "Cape",
+    "clue": "Umhang",
+    "elo": 1200
+  },
+  {
+    "word": "Capri",
+    "clue": "ital. Insel",
+    "elo": 1100
+  },
+  {
+    "word": "Caracas",
+    "clue": "Hauptstadt Venezuelas",
+    "elo": 1300
+  },
+  {
+    "word": "Carbon",
+    "clue": "Kohlenstoff",
+    "elo": 1300
+  },
+  {
+    "word": "Cargo",
+    "clue": "Frachtgut",
+    "elo": 1200
+  },
+  {
+    "word": "Caritas",
+    "clue": "Hilfswerk",
+    "elo": 1200
+  },
+  {
+    "word": "Carmen",
+    "clue": "Opernfigur",
+    "elo": 1200
+  },
+  {
+    "word": "Carree",
+    "clue": "Häuserblock",
+    "elo": 1300
+  },
+  {
+    "word": "Caspar",
+    "clue": "einer d. Hl. 3 Könige",
+    "elo": 1200
+  },
+  {
+    "word": "Cassis",
+    "clue": "Johannisbeersirup",
+    "elo": 1400
+  },
+  {
+    "word": "Cast",
+    "clue": "Besetzung (Film)",
+    "elo": 1200
+  },
+  {
+    "word": "Catering",
+    "clue": "Verpflegungsservice",
+    "elo": 1200
+  },
+  {
+    "word": "Cayenne",
+    "clue": "scharfer Pfeffer",
+    "elo": 1300
+  },
+  {
+    "word": "Cedille",
+    "clue": "frz. Häkchen am C",
+    "elo": 1500
+  },
+  {
+    "word": "Cello",
+    "clue": "Saiteninstrument",
+    "elo": 1100
+  },
+  {
+    "word": "Celsius",
+    "clue": "Temperaturskala",
+    "elo": 1200
+  },
+  {
+    "word": "Center",
+    "clue": "Zentrum",
+    "elo": 1100
+  },
+  {
+    "word": "Ceres",
+    "clue": "Zwergplanet / Göttin",
+    "elo": 1400
+  },
+  {
+    "word": "Ceylon",
+    "clue": "alt f. Sri Lanka",
+    "elo": 1300
+  },
+  {
+    "word": "Chaisen",
+    "clue": "Kutschen",
+    "elo": 1500
+  },
+  {
+    "word": "Chakra",
+    "clue": "Energiezentrum",
+    "elo": 1300
+  },
+  {
+    "word": "Chalet",
+    "clue": "schweiz. Alpenhaus",
+    "elo": 1300
+  },
+  {
+    "word": "Chamois",
+    "clue": "Gämse (frz.)",
+    "elo": 1500
+  },
+  {
+    "word": "Champ",
+    "clue": "Sieger (ugs.)",
+    "elo": 1200
+  },
+  {
+    "word": "Chance",
+    "clue": "Gelegenheit",
+    "elo": 1100
+  },
+  {
+    "word": "Chanson",
+    "clue": "frz. Lied",
+    "elo": 1200
+  },
+  {
+    "word": "Chaos",
+    "clue": "Unordnung",
+    "elo": 1100
+  },
+  {
+    "word": "Charak",
+    "clue": "Wesensart (Abk.)",
+    "elo": 1200
+  },
+  {
+    "word": "Charge",
+    "clue": "Dienstgrad / Posten",
+    "elo": 1400
+  },
+  {
+    "word": "Charisma",
+    "clue": "Ausstrahlung",
+    "elo": 1300
+  },
+  {
+    "word": "Charity",
+    "clue": "Wohltätigkeit",
+    "elo": 1300
+  },
+  {
+    "word": "Charm",
+    "clue": "Zauber (engl.)",
+    "elo": 1200
+  },
+  {
+    "word": "Charme",
+    "clue": "Anmut",
+    "elo": 1200
+  },
+  {
+    "word": "Charter",
+    "clue": "Mietflug",
+    "elo": 1200
+  },
+  {
+    "word": "Chassis",
+    "clue": "Fahrgestell",
+    "elo": 1400
+  },
+  {
+    "word": "Chat",
+    "clue": "elektr. Unterhaltung",
+    "elo": 1000
+  },
+  {
+    "word": "Check",
+    "clue": "Überprüfung",
+    "elo": 1100
+  },
+  {
+    "word": "Cheers",
+    "clue": "Trinkspruch (engl.)",
+    "elo": 1200
+  },
+  {
+    "word": "Chef",
+    "clue": "Boss",
+    "elo": 1000
+  },
+  {
+    "word": "Chemie",
+    "clue": "Stofflehre",
+    "elo": 1100
+  },
+  {
+    "word": "Cheops",
+    "clue": "ägypt. Pharao",
+    "elo": 1300
+  },
+  {
+    "word": "Cherub",
+    "clue": "Engelwesen",
+    "elo": 1400
+  },
+  {
+    "word": "Chic",
+    "clue": "modisch, elegant",
+    "elo": 1200
+  },
+  {
+    "word": "Chiffre",
+    "clue": "Geheimzeichen",
+    "elo": 1300
+  },
+  {
+    "word": "Chile",
+    "clue": "Staat in Südamerika",
+    "elo": 1100
+  },
+  {
+    "word": "Chili",
+    "clue": "scharfes Gewürz",
+    "elo": 1100
+  },
+  {
+    "word": "Chimäre",
+    "clue": "Mischwesen / Trugbild",
+    "elo": 1500
+  },
+  {
+    "word": "China",
+    "clue": "Land in Ostasien",
+    "elo": 1100
+  },
+  {
+    "word": "Chip",
+    "clue": "Elektronikbauteil",
+    "elo": 1100
+  },
+  {
+    "word": "Chlor",
+    "clue": "chem. Element",
+    "elo": 1200
+  },
+  {
+    "word": "Choke",
+    "clue": "Starterklappe",
+    "elo": 1500
+  },
+  {
+    "word": "Cholera",
+    "clue": "Infektionskrankheit",
+    "elo": 1300
+  },
+  {
+    "word": "Chor",
+    "clue": "Gesangsgruppe",
+    "elo": 1100
+  },
+  {
+    "word": "Choral",
+    "clue": "Kirchengesang",
+    "elo": 1300
+  },
+  {
+    "word": "Chrom",
+    "clue": "Metallüberzug",
+    "elo": 1200
+  },
+  {
+    "word": "Chrono",
+    "clue": "Vorsilbe: Zeit",
+    "elo": 1300
+  },
+  {
+    "word": "Chrys",
+    "clue": "Vorsilbe: Gold",
+    "elo": 1500
+  },
+  {
+    "word": "Chutney",
+    "clue": "würzig-süße Sauce",
+    "elo": 1300
+  },
+  {
+    "word": "Cicero",
+    "clue": "röm. Redner",
+    "elo": 1400
+  },
+  {
+    "word": "Cid",
+    "clue": "span. Nationalheld",
+    "elo": 1400
+  },
+  {
+    "word": "Cinque",
+    "clue": "fünf (ital.)",
+    "elo": 1400
+  },
+  {
+    "word": "Cis",
+    "clue": "erhöhter Ton C",
+    "elo": 1200
+  },
+  {
+    "word": "Citrus",
+    "clue": "Zitrusfrüchte",
+    "elo": 1200
+  },
+  {
+    "word": "City",
+    "clue": "Innenstadt",
+    "elo": 1000
+  },
+  {
+    "word": "Civis",
+    "clue": "Bürger (lat.)",
+    "elo": 1500
+  },
+  {
+    "word": "Alien",
+    "clue": "Sci-Fi-Horror (1979)",
+    "elo": 1100
+  },
+  {
+    "word": "Amadeus",
+    "clue": "Mozart-Biografie",
+    "elo": 1200
+  },
+  {
+    "word": "Avatar",
+    "clue": "Sci-Fi v. James Cameron",
+    "elo": 1000
+  },
+  {
+    "word": "Batman",
+    "clue": "Comic-Verfilmung",
+    "elo": 1000
+  },
+  {
+    "word": "Ben Hur",
+    "clue": "Monumentalfilm",
+    "elo": 1200
+  },
+  {
+    "word": "Bambi",
+    "clue": "Disney-Rehkitz",
+    "elo": 1000
+  },
+  {
+    "word": "Bonanza",
+    "clue": "Kult-Westernserie",
+    "elo": 1100
+  },
+  {
+    "word": "Blow Up",
+    "clue": "Antonioni-Klassiker",
+    "elo": 1400
+  },
+  {
+    "word": "Casablanca",
+    "clue": "Film mit Bogart",
+    "elo": 1100
+  },
+  {
+    "word": "Casino",
+    "clue": "Scorsese-Mafiafilm",
+    "elo": 1200
+  },
+  {
+    "word": "Columbo",
+    "clue": "TV-Inspektor (Mantel)",
+    "elo": 1100
+  },
+  {
+    "word": "Dallas",
+    "clue": "Öl-Saga (TV-Serie)",
+    "elo": 1100
+  },
+  {
+    "word": "Derrick",
+    "clue": "dt. Krimiserie",
+    "elo": 1100
+  },
+  {
+    "word": "Dracula",
+    "clue": "Vampirklassiker",
+    "elo": 1100
+  },
+  {
+    "word": "Dumbo",
+    "clue": "fliegender Elefant",
+    "elo": 1000
+  },
+  {
+    "word": "Dynasty",
+    "clue": "Denver-Clan (Serie)",
+    "elo": 1200
+  },
+  {
+    "word": "E.T.",
+    "clue": "Der Außerirdische",
+    "elo": 1000
+  },
+  {
+    "word": "Emma",
+    "clue": "Jane Austen Adaption",
+    "elo": 1200
+  },
+  {
+    "word": "Evita",
+    "clue": "Musicalverfilmung",
+    "elo": 1200
+  },
+  {
+    "word": "Fargo",
+    "clue": "Coen-Brüder Thriller",
+    "elo": 1300
+  },
+  {
+    "word": "Flipper",
+    "clue": "TV-Delfin",
+    "elo": 1100
+  },
+  {
+    "word": "Friends",
+    "clue": "US-Sitcom (6 Freunde)",
+    "elo": 1000
+  },
+  {
+    "word": "Frozen",
+    "clue": "Die Eiskönigin",
+    "elo": 1000
+  },
+  {
+    "word": "Gandhi",
+    "clue": "Historienfilm (1982)",
+    "elo": 1300
+  },
+  {
+    "word": "Gigi",
+    "clue": "Musicalklassiker",
+    "elo": 1400
+  },
+  {
+    "word": "Gilda",
+    "clue": "Rita Hayworth Film",
+    "elo": 1400
+  },
+  {
+    "word": "Gladiator",
+    "clue": "Römerfilm (R. Scott)",
+    "elo": 1100
+  },
+  {
+    "word": "Grease",
+    "clue": "High-School-Musical",
+    "elo": 1100
+  },
+  {
+    "word": "Hamlet",
+    "clue": "Shakespeare-Film",
+    "elo": 1200
+  },
+  {
+    "word": "Heat",
+    "clue": "Thriller (Pacino/DeNiro)",
+    "elo": 1300
+  },
+  {
+    "word": "Heidi",
+    "clue": "Alpen-Klassiker",
+    "elo": 1000
+  },
+  {
+    "word": "Hulk",
+    "clue": "grüner Marvel-Held",
+    "elo": 1100
+  },
+  {
+    "word": "Inception",
+    "clue": "Nolan-Traumthriller",
+    "elo": 1300
+  },
+  {
+    "word": "Iron Man",
+    "clue": "Marvel-Film",
+    "elo": 1100
+  },
+  {
+    "word": "It",
+    "clue": "Stephen King (Clown)",
+    "elo": 1200
+  },
+  {
+    "word": "Ivanhoe",
+    "clue": "Ritterfilm",
+    "elo": 1300
+  },
+  {
+    "word": "Jaws",
+    "clue": "Der weiße Hai (orig.)",
+    "elo": 1200
+  },
+  {
+    "word": "Joker",
+    "clue": "Batman-Gegenspieler",
+    "elo": 1100
+  },
+  {
+    "word": "Jurassic",
+    "clue": "Dinosaurier-Park",
+    "elo": 1100
+  },
+  {
+    "word": "King Kong",
+    "clue": "Riesenaffe",
+    "elo": 1100
+  },
+  {
+    "word": "Lassie",
+    "clue": "TV-Hündin (Collie)",
+    "elo": 1100
+  },
+  {
+    "word": "Leon",
+    "clue": "Der Profi (Action)",
+    "elo": 1200
+  },
+  {
+    "word": "Lolita",
+    "clue": "Nabokov-Verfilmung",
+    "elo": 1400
+  },
+  {
+    "word": "Lost",
+    "clue": "Insel-Mystery-Serie",
+    "elo": 1200
+  },
+  {
+    "word": "M.A.S.H.",
+    "clue": "Kriegssatire (Film/Serie)",
+    "elo": 1300
+  },
+  {
+    "word": "Mad Men",
+    "clue": "Werber-Serie (60s)",
+    "elo": 1300
+  },
+  {
+    "word": "Matrix",
+    "clue": "Cyberpunk-Klassiker",
+    "elo": 1100
+  },
+  {
+    "word": "Metropolis",
+    "clue": "Fritz Lang Stummfilm",
+    "elo": 1500
+  },
+  {
+    "word": "Mulan",
+    "clue": "Disney-Heldin (China)",
+    "elo": 1100
+  },
+  {
+    "word": "Narcos",
+    "clue": "Kartell-Serie",
+    "elo": 1200
+  },
+  {
+    "word": "Network",
+    "clue": "Mediensatire (1976)",
+    "elo": 1500
+  },
+  {
+    "word": "Noire",
+    "clue": "Film-Stilrichtung",
+    "elo": 1400
+  },
+  {
+    "word": "Nosferatu",
+    "clue": "Stummfilm-Vampir",
+    "elo": 1500
+  },
+  {
+    "word": "Oliver",
+    "clue": "Twist-Verfilmung",
+    "elo": 1200
+  },
+  {
+    "word": "Oz",
+    "clue": "Zauberer-Märchenland",
+    "elo": 1100
+  },
+  {
+    "word": "Patton",
+    "clue": "Kriegsfilm-Biografie",
+    "elo": 1400
+  },
+  {
+    "word": "Pinocchio",
+    "clue": "Holzpuppe m. Nase",
+    "elo": 1000
+  },
+  {
+    "word": "Platoon",
+    "clue": "Vietnam-Kriegsfilm",
+    "elo": 1300
+  },
+  {
+    "word": "Psycho",
+    "clue": "Hitchcock-Schocker",
+    "elo": 1200
+  },
+  {
+    "word": "Ran",
+    "clue": "Kurosawa-Epos",
+    "elo": 1500
+  },
+  {
+    "word": "Rambo",
+    "clue": "Actionfilm (Stallone)",
+    "elo": 1100
+  },
+  {
+    "word": "Rebecca",
+    "clue": "Hitchcock-Drama",
+    "elo": 1400
+  },
+  {
+    "word": "Rocky",
+    "clue": "Boxer-Drama (Philadelphia)",
+    "elo": 1100
+  },
+  {
+    "word": "Roma",
+    "clue": "Cuarón-Film",
+    "elo": 1400
+  },
+  {
+    "word": "Roots",
+    "clue": "Sklaven-Saga (Serie)",
+    "elo": 1400
+  },
+  {
+    "word": "Scrubs",
+    "clue": "Krankenhaus-Sitcom",
+    "elo": 1200
+  },
+  {
+    "word": "Se7en",
+    "clue": "Sieben (Fincher-Krimi)",
+    "elo": 1200
+  },
+  {
+    "word": "Shrek",
+    "clue": "grüner Animations-Oger",
+    "elo": 1100
+  },
+  {
+    "word": "Sissi",
+    "clue": "Kaiserin-Trilogie",
+    "elo": 1100
+  },
+  {
+    "word": "Skyfall",
+    "clue": "James-Bond-Teil",
+    "elo": 1100
+  },
+  {
+    "word": "Snatch",
+    "clue": "Guy-Ritchie-Komödie",
+    "elo": 1300
+  },
+  {
+    "word": "Spartacus",
+    "clue": "Sklavenaufstand-Film",
+    "elo": 1300
+  },
+  {
+    "word": "Speed",
+    "clue": "Bus-Action (Reeves)",
+    "elo": 1200
+  },
+  {
+    "word": "Suits",
+    "clue": "Anwalts-Serie",
+    "elo": 1100
+  },
+  {
+    "word": "Tarzan",
+    "clue": "Dschungelheld",
+    "elo": 1100
+  },
+  {
+    "word": "Tatort",
+    "clue": "Krimireihe (ARD)",
+    "elo": 1100
+  },
+  {
+    "word": "Tenet",
+    "clue": "Nolan-Zeitreisefilm",
+    "elo": 1400
+  },
+  {
+    "word": "Titanic",
+    "clue": "Schiffsuntergang-Epos",
+    "elo": 1000
+  },
+  {
+    "word": "Top Gun",
+    "clue": "Jet-Piloten Film",
+    "elo": 1100
+  },
+  {
+    "word": "Toy Story",
+    "clue": "Animationsfilm (Pixar)",
+    "elo": 1100
+  },
+  {
+    "word": "Tootsie",
+    "clue": "Dustin Hoffman Film",
+    "elo": 1300
+  },
+  {
+    "word": "Traffic",
+    "clue": "Drogen-Episodenfilm",
+    "elo": 1400
+  },
+  {
+    "word": "Tron",
+    "clue": "Computerwelt-Film",
+    "elo": 1400
+  },
+  {
+    "word": "Up",
+    "clue": "Oben (Pixar-Film)",
+    "elo": 1200
+  },
+  {
+    "word": "Vegas",
+    "clue": "Crime-Serie (Robert Urich)",
+    "elo": 1300
+  },
+  {
+    "word": "Vertigo",
+    "clue": "Hitchcock-Klassiker",
+    "elo": 1400
+  },
+  {
+    "word": "Vikings",
+    "clue": "Nordmänner-Serie",
+    "elo": 1200
+  },
+  {
+    "word": "WALL-E",
+    "clue": "Roboter-Film (Pixar)",
+    "elo": 1200
+  },
+  {
+    "word": "Waikiki",
+    "clue": "Magnum-Setting (Serie)",
+    "elo": 1300
+  },
+  {
+    "word": "Wicked",
+    "clue": "Musicalverfilmung",
+    "elo": 1300
+  },
+  {
+    "word": "X-Men",
+    "clue": "Mutanten-Saga",
+    "elo": 1100
+  },
+  {
+    "word": "Yentl",
+    "clue": "Barbra Streisand Film",
+    "elo": 1500
+  },
+  {
+    "word": "Zelig",
+    "clue": "Woody-Allen-Film",
+    "elo": 1500
+  },
+  {
+    "word": "Zodiac",
+    "clue": "Fincher-Serienmörderfilm",
+    "elo": 1300
+  },
+  {
+    "word": "Zorro",
+    "clue": "Held mit Maske/Degen",
+    "elo": 1100
+  },
+  {
+    "word": "300",
+    "clue": "Spartaner-Epos",
+    "elo": 1200
+  },
+  {
+    "word": "24",
+    "clue": "Echtzeit-Serie (Jack Bauer)",
+    "elo": 1200
+  },
+  {
+    "word": "Psycho",
+    "clue": "Hitchcock (Duschszene)",
+    "elo": 1100
+  },
+  {
+    "word": "Scream",
+    "clue": "Horror-Slasher (Maske)",
+    "elo": 1200
+  },
+  {
+    "word": "Dr. No",
+    "clue": "erster James Bond Film",
+    "elo": 1300
+  },
+  {
+    "word": "Aioli",
+    "clue": "Knoblauchcreme",
+    "elo": 1200
+  },
+  {
+    "word": "Al dente",
+    "clue": "bissfest (Nudeln)",
+    "elo": 1100
+  },
+  {
+    "word": "Antipasti",
+    "clue": "ital. Vorspeisen",
+    "elo": 1100
+  },
+  {
+    "word": "Aperitif",
+    "clue": "Getränk vor dem Essen",
+    "elo": 1100
+  },
+  {
+    "word": "Baklava",
+    "clue": "süßes Blätterteiggebäck",
+    "elo": 1300
+  },
+  {
+    "word": "Barbecue",
+    "clue": "Garmethode (Rauch)",
+    "elo": 1100
+  },
+  {
+    "word": "Bechamel",
+    "clue": "weiße Grundsauce",
+    "elo": 1300
+  },
+  {
+    "word": "Beilage",
+    "clue": "Ergänzung zum Hauptgericht",
+    "elo": 1000
+  },
+  {
+    "word": "Biskuit",
+    "clue": "leichte Teigmasse",
+    "elo": 1200
+  },
+  {
+    "word": "Blanchieren",
+    "clue": "kurzes Kochen in Wasser",
+    "elo": 1300
+  },
+  {
+    "word": "Borschtsch",
+    "clue": "Rote-Bete-Suppe",
+    "elo": 1400
+  },
+  {
+    "word": "Bouillon",
+    "clue": "klare Fleischbrühe",
+    "elo": 1300
+  },
+  {
+    "word": "Brunch",
+    "clue": "Frühstück + Mittagessen",
+    "elo": 1100
+  },
+  {
+    "word": "Bruschetta",
+    "clue": "geröstetes Brot (ital.)",
+    "elo": 1200
+  },
+  {
+    "word": "Bulgur",
+    "clue": "vorgekochter Weizen",
+    "elo": 1300
+  },
+  {
+    "word": "Burrito",
+    "clue": "gefüllte Tortilla",
+    "elo": 1100
+  },
+  {
+    "word": "Canapés",
+    "clue": "belegte Häppchen",
+    "elo": 1300
+  },
+  {
+    "word": "Carpaccio",
+    "clue": "rohes Fleisch (dünn)",
+    "elo": 1300
+  },
+  {
+    "word": "Ceviche",
+    "clue": "roher Fisch in Limette",
+    "elo": 1400
+  },
+  {
+    "word": "Chutney",
+    "clue": "würzig-süße Sauce",
+    "elo": 1400
+  },
+  {
+    "word": "Confit",
+    "clue": "im eigenen Fett gegart",
+    "elo": 1500
+  },
+  {
+    "word": "Couscous",
+    "clue": "Hartweizengrieß-Gericht",
+    "elo": 1200
+  },
+  {
+    "word": "Crêpe",
+    "clue": "dünner Eierkuchen",
+    "elo": 1100
+  },
+  {
+    "word": "Croissant",
+    "clue": "Hörnchengebäck",
+    "elo": 1100
+  },
+  {
+    "word": "Croutons",
+    "clue": "Brotwürfel (geröstet)",
+    "elo": 1200
+  },
+  {
+    "word": "Curry",
+    "clue": "Gewürzmischung / Eintopf",
+    "elo": 1100
+  },
+  {
+    "word": "Dashi",
+    "clue": "japanischer Fischsud",
+    "elo": 1500
+  },
+  {
+    "word": "Degustation",
+    "clue": "Verkostung",
+    "elo": 1400
+  },
+  {
+    "word": "Dessert",
+    "clue": "Nachtisch",
+    "elo": 1000
+  },
+  {
+    "word": "Dim Sum",
+    "clue": "kl. gedämpfte Speisen",
+    "elo": 1400
+  },
+  {
+    "word": "Dip",
+    "clue": "Tunk-Sauce",
+    "elo": 1000
+  },
+  {
+    "word": "Dressing",
+    "clue": "Salatsauce",
+    "elo": 1100
+  },
+  {
+    "word": "Eintopf",
+    "clue": "deftiges Mischgericht",
+    "elo": 1100
+  },
+  {
+    "word": "Entrecôte",
+    "clue": "Zwischenrippenstück",
+    "elo": 1400
+  },
+  {
+    "word": "Espresso",
+    "clue": "konzentrierter Kaffee",
+    "elo": 1100
+  },
+  {
+    "word": "Falafel",
+    "clue": "fritierte Kichererbsen",
+    "elo": 1200
+  },
+  {
+    "word": "Farce",
+    "clue": "feingehackte Füllung",
+    "elo": 1500
+  },
+  {
+    "word": "Filet",
+    "clue": "bestes Lendenstück",
+    "elo": 1100
+  },
+  {
+    "word": "Flambieren",
+    "clue": "mit Alkohol abbrennen",
+    "elo": 1300
+  },
+  {
+    "word": "Flan",
+    "clue": "Stockpudding",
+    "elo": 1400
+  },
+  {
+    "word": "Fondue",
+    "clue": "Tauchgericht (Käse/Fett)",
+    "elo": 1200
+  },
+  {
+    "word": "Frikassee",
+    "clue": "helles Ragout",
+    "elo": 1300
+  },
+  {
+    "word": "Frittata",
+    "clue": "ital. Eierspeise",
+    "elo": 1300
+  },
+  {
+    "word": "Garam Masala",
+    "clue": "ind. Gewürzmischung",
+    "elo": 1400
+  },
+  {
+    "word": "Garnitur",
+    "clue": "Verzierung d. Speise",
+    "elo": 1200
+  },
+  {
+    "word": "Gazpacho",
+    "clue": "kalte Gemüsesuppe",
+    "elo": 1400
+  },
+  {
+    "word": "Gnocchi",
+    "clue": "ital. Kartoffelklößchen",
+    "elo": 1300
+  },
+  {
+    "word": "Gourmet",
+    "clue": "Feinschmecker",
+    "elo": 1200
+  },
+  {
+    "word": "Gratin",
+    "clue": "Überbackenes",
+    "elo": 1200
+  },
+  {
+    "word": "Guacamole",
+    "clue": "Avocadocreme",
+    "elo": 1200
+  },
+  {
+    "word": "Gulasch",
+    "clue": "Paprika-Fleischtopf",
+    "elo": 1100
+  },
+  {
+    "word": "Hummus",
+    "clue": "Kichererbsenbrei",
+    "elo": 1200
+  },
+  {
+    "word": "Infusion",
+    "clue": "Aufguss",
+    "elo": 1300
+  },
+  {
+    "word": "Jus",
+    "clue": "eingedickter Bratenfond",
+    "elo": 1400
+  },
+  {
+    "word": "Karamell",
+    "clue": "gebräunter Zucker",
+    "elo": 1100
+  },
+  {
+    "word": "Kebab",
+    "clue": "orient. Fleischgericht",
+    "elo": 1100
+  },
+  {
+    "word": "Kimchi",
+    "clue": "fermentierter Kohl",
+    "elo": 1300
+  },
+  {
+    "word": "Konfitüre",
+    "clue": "Fruchtbrotaufstrich",
+    "elo": 1100
+  },
+  {
+    "word": "Krokette",
+    "clue": "fritierte Speisehülle",
+    "elo": 1200
+  },
+  {
+    "word": "Kruste",
+    "clue": "harte Außenschicht",
+    "elo": 1100
+  },
+  {
+    "word": "Lasagne",
+    "clue": "Nudelauflauf",
+    "elo": 1100
+  },
+  {
+    "word": "Legieren",
+    "clue": "binden mit Eigelb",
+    "elo": 1500
+  },
+  {
+    "word": "Marinade",
+    "clue": "Einlegemischung",
+    "elo": 1200
+  },
+  {
+    "word": "Marzipan",
+    "clue": "Mandel-Zucker-Masse",
+    "elo": 1200
+  },
+  {
+    "word": "Meze",
+    "clue": "Vorspeisen (Orient)",
+    "elo": 1400
+  },
+  {
+    "word": "Mousse",
+    "clue": "schaumige Speise",
+    "elo": 1200
+  },
+  {
+    "word": "Müsli",
+    "clue": "Getreide-Obst-Gemisch",
+    "elo": 1000
+  },
+  {
+    "word": "Naan",
+    "clue": "indisches Fladenbrot",
+    "elo": 1300
+  },
+  {
+    "word": "Nockerl",
+    "clue": "alpenländ. Klößchen",
+    "elo": 1300
+  },
+  {
+    "word": "Omelett",
+    "clue": "Eierkuchen",
+    "elo": 1100
+  },
+  {
+    "word": "Paella",
+    "clue": "span. Reisgericht",
+    "elo": 1200
+  },
+  {
+    "word": "Panade",
+    "clue": "Umhüllung (Semmelbr.)",
+    "elo": 1200
+  },
+  {
+    "word": "Panna Cotta",
+    "clue": "ital. Sahnepudding",
+    "elo": 1300
+  },
+  {
+    "word": "Parfait",
+    "clue": "Halbgefrorenes",
+    "elo": 1400
+  },
+  {
+    "word": "Pasta",
+    "clue": "Teigwaren",
+    "elo": 1000
+  },
+  {
+    "word": "Pastete",
+    "clue": "Hüllengebäck m. Füllung",
+    "elo": 1300
+  },
+  {
+    "word": "Pesto",
+    "clue": "ital. Würzsauce",
+    "elo": 1200
+  },
+  {
+    "word": "Piccata",
+    "clue": "kl. Schnitzel (Lombardei)",
+    "elo": 1400
+  },
+  {
+    "word": "Pochieren",
+    "clue": "garziehen unter Sieden",
+    "elo": 1500
+  },
+  {
+    "word": "Polenta",
+    "clue": "Maisgrießbrei",
+    "elo": 1300
+  },
+  {
+    "word": "Püree",
+    "clue": "Breispeise",
+    "elo": 1100
+  },
+  {
+    "word": "Quiche",
+    "clue": "herzhafter Mürbeteigkuchen",
+    "elo": 1300
+  },
+  {
+    "word": "Ragout",
+    "clue": "Würzfleisch",
+    "elo": 1300
+  },
+  {
+    "word": "Ramen",
+    "clue": "japanische Nudelsuppe",
+    "elo": 1200
+  },
+  {
+    "word": "Ratatouille",
+    "clue": "Gemüseschmorgereicht",
+    "elo": 1300
+  },
+  {
+    "word": "Risotto",
+    "clue": "ital. Reisgericht",
+    "elo": 1200
+  },
+  {
+    "word": "Roastbeef",
+    "clue": "Rinderbratenstück",
+    "elo": 1200
+  },
+  {
+    "word": "Sashimi",
+    "clue": "roher Fisch (pur)",
+    "elo": 1400
+  },
+  {
+    "word": "Sautieren",
+    "clue": "kurzbraten (in Pfanne)",
+    "elo": 1500
+  },
+  {
+    "word": "Sorbett",
+    "clue": "Früchteeis (milchfrei)",
+    "elo": 1300
+  },
+  {
+    "word": "Soufflé",
+    "clue": "Eierschaumspeise",
+    "elo": 1400
+  },
+  {
+    "word": "Sous-vide",
+    "clue": "Vakuumgaren",
+    "elo": 1500
+  },
+  {
+    "word": "Spätzle",
+    "clue": "schwäbische Nudeln",
+    "elo": 1100
+  },
+  {
+    "word": "Strudel",
+    "clue": "gefüllte Teigrolle",
+    "elo": 1200
+  },
+  {
+    "word": "Sushi",
+    "clue": "gesäuerter Reis m. Fisch",
+    "elo": 1100
+  },
+  {
+    "word": "Tapas",
+    "clue": "span. Häppchen",
+    "elo": 1200
+  },
+  {
+    "word": "Tiramisu",
+    "clue": "ital. Schichtspeise",
+    "elo": 1100
+  },
+  {
+    "word": "Trüffel",
+    "clue": "Edelpilz / Praline",
+    "elo": 1300
+  },
+  {
+    "word": "Umami",
+    "clue": "fünfte Geschmacksrichtung",
+    "elo": 1400
+  },
+  {
+    "word": "Vinaigrette",
+    "clue": "Essig-Öl-Sauce",
+    "elo": 1300
+  },
+  {
+    "word": "Wasabi",
+    "clue": "grüner Meerrettich",
+    "elo": 1300
+  }
+]
