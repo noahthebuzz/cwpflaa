@@ -55,7 +55,16 @@ async def get_current_user(
         )
     
     from app.models.user import User
-    user = db.query(User).filter(User.id == int(user_id)).first()
+    import uuid
+    try:
+        user_uuid = uuid.UUID(user_id)
+    except (ValueError, AttributeError):
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Invalid token format",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
+    user = db.query(User).filter(User.id == user_uuid).first()
     
     if user is None:
         raise HTTPException(

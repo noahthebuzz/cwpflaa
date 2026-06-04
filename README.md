@@ -165,12 +165,9 @@ cwpflaa/
 - PostgreSQL connection & ORM
 - User authentication (register, login, JWT)
 
-### Phase 2: Daily Puzzle System (In Progress)
+### Phase 2: Daily Puzzle System (Next)
 
-- ✅ Word vocabulary system (360+ German words with difficulty ratings)
-  - Word model with IRT-based ELO difficulty tracking
-  - Auto-seeding from JSON on startup
-  - Support for duplicate words with different meanings
+- Word vocabulary system (300+ German words with difficulty ratings)
 - Puzzle generation (Sudoku, Wordle, Schwedenrätsel)
 - DailyPuzzle model for storing generated puzzles
 - API endpoints for fetching and submitting puzzles

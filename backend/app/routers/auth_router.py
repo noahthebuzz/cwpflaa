@@ -5,12 +5,13 @@ from app.database import get_db
 from app.models.user import User
 from app.auth.hashing import hash_password, verify_password
 from app.auth.jwt import create_access_token, get_current_user
-from app.schemas.user import RegisterRequest, LoginRequest, TokenResponse, UserResponse, GeneratedUsernameResponse
+from app.schemas.user import RegisterRequest, LoginRequest, TokenResponse, UserResponse, GeneratedUsernameResponse, DeleteUserResponse
 from app.auth.generator.username_generator import generate_random_username, generate_unique_username
 
 logger = logging.getLogger(__name__)
 
 router = APIRouter(prefix="/auth", tags=["auth"])
+
 
 @router.post("/generate-username", response_model=GeneratedUsernameResponse)
 def generate_username(db: Session = Depends(get_db)):
@@ -29,6 +30,7 @@ def generate_username(db: Session = Depends(get_db)):
     
     logger.info(f"[AUTH] new username generated: {username}")
     return GeneratedUsernameResponse(username=username)
+
 
 @router.post("/register", response_model=UserResponse, status_code=status.HTTP_201_CREATED)
 def register(body: RegisterRequest, db: Session = Depends(get_db)):
@@ -68,6 +70,7 @@ def register(body: RegisterRequest, db: Session = Depends(get_db)):
     logger.info(f"[AUTH] New user: {username} - {body.email}")
     return user
 
+
 @router.post("/login", response_model=TokenResponse)
 def login(body: LoginRequest, db: Session = Depends(get_db)):
     user = db.query(User).filter(User.email == body.email).first()
@@ -80,6 +83,7 @@ def login(body: LoginRequest, db: Session = Depends(get_db)):
     logger.info(f"[AUTH] {user.username} logged in")
     return TokenResponse(access_token=access_token)
 
+
 @router.get("/me", response_model=UserResponse)
 async def get_me(current_user: User = Depends(get_current_user)):
     """
@@ -90,3 +94,21 @@ async def get_me(current_user: User = Depends(get_current_user)):
     """
     logger.info(f"[AUTH] {current_user.username} accessed /me")
     return current_user
+
+
+@router.delete("/me", status_code=status.HTTP_200_OK)
+async def delete_me(body: DeleteUserResponse, current_user: User = Depends(get_current_user), db: Session = Depends(get_db)):
+    """
+    Delete the authenticated user's account.
+    
+    Requires: Valid JWT token in Authorization header (Bearer <token>)
+    Body: { "password": "current_password" }
+    """
+    if not verify_password(body.password, current_user.hashed_password):
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Invalid password")
+    
+    db.delete(current_user)
+    db.commit()
+    
+    logger.info(f"[AUTH] {current_user.username} deleted their account")
+    return {"detail": "User deleted successfully"}

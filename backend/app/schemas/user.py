@@ -1,5 +1,6 @@
 from pydantic import BaseModel, EmailStr
 from typing import Optional
+from uuid import UUID
 
 class RegisterRequest(BaseModel):
     username: Optional[str] = None  # Optional - will be auto-generated if not provided
@@ -15,7 +16,7 @@ class TokenResponse(BaseModel):
     token_type: str = "bearer"
 
 class UserResponse(BaseModel):
-    id: int
+    id: UUID
     username: str
     email: EmailStr
 
@@ -24,3 +25,6 @@ class UserResponse(BaseModel):
 
 class GeneratedUsernameResponse(BaseModel):
     username: str
+
+class DeleteUserResponse(BaseModel):
+    password: str
