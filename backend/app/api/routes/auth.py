@@ -17,7 +17,7 @@ async def register(data: RegisterRequest, db: AsyncSession = Depends(get_db)):
 
 @router.post("/login", response_model=TokenResponse)
 async def login(data: LoginRequest, response: Response, db: AsyncSession = Depends(get_db)):
-    user, access_token, refresh_token = await auth_service.login(db, data.email, data.password)
+    user, access_token, refresh_token = await auth_service.login(db, data.identifier, data.password)
     response.set_cookie(
         key="refresh_token",
         value=refresh_token,

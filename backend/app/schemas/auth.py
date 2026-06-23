@@ -6,7 +6,7 @@ class RegisterRequest(BaseModel):
     username: str | None = None
 
 class LoginRequest(BaseModel):
-    email: EmailStr
+    identifier: str  # email or username
     password: str
 
 class TokenResponse(BaseModel):

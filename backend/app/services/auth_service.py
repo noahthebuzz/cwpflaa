@@ -27,8 +27,11 @@ async def register(db: AsyncSession, email: str, password: str, username: str | 
     await db.refresh(user)
     return user
 
-async def login(db: AsyncSession, email: str, password: str) -> tuple[User, str, str]:
-    result = await db.execute(select(User).where(User.email == email))
+async def login(db: AsyncSession, identifier: str, password: str) -> tuple[User, str, str]:
+    from sqlalchemy import or_
+    result = await db.execute(
+        select(User).where(or_(User.email == identifier, User.username == identifier))
+    )
     user = result.scalar_one_or_none()
     if not user or not verify_password(password, user.hashed_password):
         raise HTTPException(status_code=401, detail="Invalid credentials", headers={"code": "INVALID_CREDENTIALS"})
