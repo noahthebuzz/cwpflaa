@@ -22,8 +22,16 @@ export interface LetterResult {
 
 export interface GuessResult {
   guess: string
-  results: LetterResult[]
+  feedback: LetterResult[]
   is_correct: boolean
+}
+
+export interface PuzzleSummary {
+  id: string
+  puzzle_type: 'wordle' | 'sudoku' | 'crossword'
+  date: string
+  difficulty: 'easy' | 'medium' | 'hard'
+  content: Record<string, unknown>
 }
 
 export interface WordlePuzzle extends Puzzle {
