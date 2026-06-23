@@ -1,16 +1,20 @@
 from datetime import datetime, timedelta, timezone
 from typing import Any
-from jose import JWTError, jwt
-from passlib.context import CryptContext
+from jose import jwt
+from argon2 import PasswordHasher
+from argon2.exceptions import VerifyMismatchError, VerificationError, InvalidHashError
 from app.core.config import settings
 
-pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+_ph = PasswordHasher()
 
 def verify_password(plain_password: str, hashed_password: str) -> bool:
-    return pwd_context.verify(plain_password, hashed_password)
+    try:
+        return _ph.verify(hashed_password, plain_password)
+    except (VerifyMismatchError, VerificationError, InvalidHashError):
+        return False
 
 def get_password_hash(password: str) -> str:
-    return pwd_context.hash(password)
+    return _ph.hash(password)
 
 def create_access_token(subject: str | Any, expires_delta: timedelta | None = None) -> str:
     expire = datetime.now(timezone.utc) + (expires_delta or timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES))
